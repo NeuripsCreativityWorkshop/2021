@@ -3,8 +3,11 @@
 Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music--including recent advances such as CLIP, VQGAN, and DALL·E. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
 
 **State-of-the-art algorithms for the creation of new media**. Machine learning models achieving state-of-the-art in traditional media creation tasks (e.g., image, audio, or video synthesis) that are also being used by the artist community will be showcased.
+
 **Artist accessibility of machine learning models**. Researchers building the next generation of machine learning models for media creation will be challenged in understanding the accessibility needs of artists. Artists and Human Computer interaction / User Experience community members will be encouraged to engage in the conversation.
+
 **The sociocultural and political impact of these new models**. With the increased popularity of generative machine learning models, we are witnessing these models start to impact our everyday surroundings, ranging from racial and gender bias in algorithms and datasets used for media creation to how new media manipulation tools may erode our collective trust in media content.
+
 **Artistic applications**. We will hear directly from some of the artists who are adopting machine learning--including deep learning and reinforcement learning--as part of their own artistic process as well as showcasing their work.  
 
 This workshop will aim to balance addressing the technical issues and challenges of applying the latest machine learning models and techniques to creativity and design with the broader sociocultural and political issues that surround this area of research. The goal of this workshop is to bring together researchers and artists interested in exploring the intersection of human creativity and machine learning and foster collaboration between them, as well as promote the sharing of ideas, perspectives, new research, artwork, and artistic needs.
