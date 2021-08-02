@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+{% seo %}
+  </head>
+
+<meta name="description" content="NeurIPS 2020 Workshop on Machine Learning for Creativity and Design">
+<meta property="og:title" content="NeurIPS 2020 ML for Creativity & Design" />
+<meta property="og:description" content="NeurIPS 2020 Workshop on Machine Learning for Creativity and Design" />
+<meta property="og:image" content="https://raw.githubusercontent.com/NeuripsCreativityWorkshop/2020/main/assets/seabed.jpg" />
+<meta property="og:url" content="https://neuripscreativityworkshop.github.io/2020" />
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="NeurIPS 2020 ML for Creativity & Design" />
+<meta name="twitter:description" content="NeurIPS 2020 Workshop on Machine Learning for Creativity and Design" />
+<meta property="og:site_name" content="NeurIPS 2020 ML for Creativity & Design" />
+<meta name="twitter:image" content="https://raw.githubusercontent.com/NeuripsCreativityWorkshop/2020/main/assets/seabed.jpg" />
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+
+          <h2 id="project_title">{{ site.title | default: site.github.repository_name }}</h2>
+          <h3 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h3>
+          <h3 id="project_tagline">{{ site.eventdate | default: site.github.project_tagline }}</h3>
+
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+<img src="https://raw.githubusercontent.com/NeuripsCreativityWorkshop/2020/main/assets/seabed.jpg" width="95%"/>
+<i>Image credit: Sofia Crespo's "On the seabed gazing up" (2020).</i>
+        </center>
+<p></p>
+
+<center>
+<div class="sns">
+
+  <!-- Twitter -->
+  <a href="http://twitter.com/share?url=https://neuripscreativityworkshop.github.io/2020&text=NeurIPS 2020 Workshop on Machine Learning for Creativity and Design" target="_blank" class="share-btn twitter">
+      <i class="fa fa-twitter-square fa-2x"></i>
+  </a>
+  <!-- Facebook -->
+  <a href="http://www.facebook.com/sharer/sharer.php?u=https://neuripscreativityworkshop.github.io/2020" target="_blank" class="share-btn facebook">
+      <i class="fa fa-facebook-square fa-2x"></i>
+  </a>
+  <!-- LinkedIn -->
+  <a href="http://www.linkedin.com/shareArticle?url=https://neuripscreativityworkshop.github.io/2020&title=NeurIPS 2020 Workshop on Machine Learning for Creativity and Design&source=" target="_blank" class="share-btn linkedin">
+      <i class="fa fa-linkedin-square fa-2x"></i>
+  </a>
+
+</div>
+</center>
+
+<p></p>
+
+        {{ content }}
+        
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        {% if site.github.is_project_page %}
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design, December 12th, 2020. </p> 
+      </footer>
+    </div>
+
+    {% if site.google_analytics %}
+      <script type="text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
