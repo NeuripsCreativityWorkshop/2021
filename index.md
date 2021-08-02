@@ -1,26 +1,34 @@
 ## Introduction
 
-Generative machine learning and machine creativity have continued to grow and attract a wider audience to machine learning. Generative models enable new types of media creation across images, music, and text - including recent advances such as StyleGAN2, Jukebox and GPT-3. This one-day workshop broadly explores issues in the applications of machine learning to creativity and design. We will look at algorithms for generation and creation of new media, engaging researchers building the next generation of generative models (GANs, RL, etc). We investigate the social and cultural impact of these new models, engaging researchers from HCI/UX communities and those using machine learning to develop new creative tools. In addition to covering the technical advances, we also address the ethical concerns ranging from the use of biased datasets to replicating artistic work. Finally, we’ll hear from some of the artists and musicians who are adopting machine learning including deep learning and reinforcement learning as part of their own artistic process.  We aim to balance the technical issues and challenges of applying the latest generative models to creativity and design with philosophical and cultural issues that surround this area of research.
+Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music--including recent advances such as CLIP, VQGAN, and DALL·E. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
 
-The goal of this workshop is to bring together researchers interested in advancing art and music generation to present new work, foster collaborations and build networks with the aim of solving the most pressing problems in the field.
+**State-of-the-art algorithms for the creation of new media**. Machine learning models achieving state-of-the-art in traditional media creation tasks (e.g., image, audio, or video synthesis) that are also being used by the artist community will be showcased.
+**Artist accessibility of machine learning models**. Researchers building the next generation of machine learning models for media creation will be challenged in understanding the accessibility needs of artists. Artists and Human Computer interaction / User Experience community members will be encouraged to engage in the conversation.
+**The sociocultural and political impact of these new models**. With the increased popularity of generative machine learning models, we are witnessing these models start to impact our everyday surroundings, ranging from racial and gender bias in algorithms and datasets used for media creation to how new media manipulation tools may erode our collective trust in media content.
+**Artistic applications**. We will hear directly from some of the artists who are adopting machine learning--including deep learning and reinforcement learning--as part of their own artistic process as well as showcasing their work.  
+
+This workshop will aim to balance addressing the technical issues and challenges of applying the latest machine learning models and techniques to creativity and design with the broader sociocultural and political issues that surround this area of research. The goal of this workshop is to bring together researchers and artists interested in exploring the intersection of human creativity and machine learning and foster collaboration between them, as well as promote the sharing of ideas, perspectives, new research, artwork, and artistic needs.
+
+As in previous years the workshop will include an open call for a display of artworks incorporating machine learning techniques. These works will be collected and presented online, providing a more personal forum for sharing artifacts created with machine learning techniques as well as providing a snapshot of the current creative machine learning landscape to the broader public.
 
 ## Invited Speakers
 
-[Sofia Crespo](https://sofiacrespo.com/), Artist
+To be announced.
+<!-- [Devi Parikh](URL), Research Scientist at Facebook AI Research
 
-[Stephanie Dinkins](https://www.stephaniedinkins.com), Artist and Professor at Stony Brook University
+[Joel Simon](URL), Artist, toolmaker, creator of ArtBreeder
 
-[Scott Eaton](http://www.scott-eaton.com), Artist
+[Kenric Allado-McDowell](URL), Writer, speaker, and musician
 
-[Jesse Engel](https://research.google/people/JesseEngel), Magenta, Google Brain
+[Mark Riedl](URL), School of Interactive Computing
 
-[Angela Fan](https://ai.facebook.com/people/angela-fan/), Facebook
-
-[Aaron Hertzmann](http://www.dgp.toronto.edu/~hertzman/), Adobe Research
-
-[Janelle Shane](https://aiweirdness.com/aboutme), AI Weirdness
+[Moisés Horta Valenzeula](URL), Electronic Musician
+ TODO: look for 1-2 more speakers? add locations and urls for each speaker-->
 
 ## Schedule
+
+To be announced.
+<!-- TODO: update schedule
 
 All times are EST (UTC -5).
 
@@ -50,107 +58,89 @@ You will find links to all the sessions on our [NeurIPS workshop website](https:
 | 3:45 PM | Poster Session 2 <br/> *Posters 1-29*|
 | 4:45 PM | Panel Discussion 2<br/>*Jesse Engel, Aaron Hertzmann and Stephanie Dinkins chaired by Holly Grimm and Tom White* |
 | 5:15 PM | Social 2 |
-| 6:00 PM | End |
+| 6:00 PM | End | -->
 
-## Accepted papers
+## How To Participate
 
-1. [Audio-reactive Latent Interpolations with StyleGAN](https://drive.google.com/file/d/1ArLcVR43q7fCmMcslBlBlVhMMe2r_mP-/view?usp=sharing)
-    * *Hans Brouwer*
-2. [Creative Sketch Generation](https://drive.google.com/file/d/1sV2s0F1AN-PNKDnTv1EbGZFM_QbIOVih/view?usp=sharing)
-    * *Songwei Ge, Vedanuj Goswami, C. Lawrence Zitnick, Devi Parikh*
-3. [Agence: an interactive film exploring multi-agent systems and human agency](https://drive.google.com/file/d/1Qekak-vOw6Ful3t18XhNsoiSVv9gQkOE/view?usp=sharing)
-    * *Dante Camarena, Pietro Gagliano, Alexander Bakogeorge, Nicholas Counter, Anuj Patel, Casey Ryan Blustein, Erin Ray, David Oppenheim, Laura Mingail, Kory W. Matthewson, Pablo S. Castro*
-4. [GANterpretations](https://drive.google.com/file/d/1Hsjc2tY9nMutiAkZjiPMJhbP8AzgLFqg/view?usp=sharing)
-    * *Pablo Samuel Castro*
-5. [Neural Style Transfer for Casual Creation](https://drive.google.com/file/d/1JINV_lEYzvUHzU83-K29slUI7-o1DAFH/view?usp=sharing)
-    * *Simon Colton*
-6. [Network Bending Neural Vocoders](https://drive.google.com/file/d/18FZXxBMBES5BYtqqm6OZKoGXXtPS98Gc/view?usp=sharing)
-    * *Louis McCallum, Matthew Yee-King*
-7. [Colorization Transformer](https://drive.google.com/file/d/1wtrvSFIWIVV0QZMmASPTvDVb7YDijpW6/view?usp=sharing)
-    * *Manoj Kumar, Dirk Weissenborn, Nal Kalchbrenner*
-8. [White-box Audio VST Effect Programming](https://drive.google.com/file/d/1YucbION3g0CPcfPW1-EfavPE5oQzsUSm/view?usp=sharing)
-    * *Christopher Mitcheltree, Hideki Koike*
-9. [TräumerAI: Dreaming Music with StyleGAN](https://drive.google.com/file/d/1PNMFaglPl36PDCHNX_RPu8XABw1vL0iu/view?usp=sharing)
-    * *Dasaem Jeong, Seungheon Doh, Taegyun Kwon*
-10. [A Note on Data Biases in Generative Models](https://drive.google.com/file/d/1PGhBTEAgj2A_FnYMk_1VU-uOxcWY076B/view?usp=sharing)
-    * *Patrick Esser, Robin Rombach, Björn Ommer*
-11. [Randomized Overdrive Neural Networks](https://drive.google.com/file/d/1rRD0YcLfZViz17e0GeEc4UioeTW8Ffd3/view?usp=sharing)
-    * *Christian J. Steinmetz, Joshua D. Reiss*
-12. [Latent Space Oddity: Exploring Latent Spaces to Design Guitar Timbres](https://drive.google.com/file/d/1s9ExW_4qGbofzoJmmTKsKlB_YO9YhG_5/view?usp=sharing)
-    * *Jason Taylor*
-13. [Resolution Dependant GAN Interpolation for Controllable Image Synthesis Between Domains](https://drive.google.com/file/d/1448oqzJoy6WaxocDW9CrmUkYdZcDSLUl/view?usp=sharing)
-    * *Justin N. M. Pinkney, Doron Adler*
-14. [Image Generation With Neural Cellular Automatas](https://drive.google.com/file/d/13M75vuiLSVxnClYNWLeKNN9Ksv2P7R_7/view?usp=sharing)
-    * *Mingxiang Chen, Zhecheng Wang*
-15. [Behaviour Aesthetics of Reinforcement Learning in a Robotic Art Installation](https://drive.google.com/file/d/1JTTKNmMrOZ-06z7DRdhBiJ29WP3dFnd6/view?usp=sharing)
-    * *Sofian Audry, Rosalie Dumont Gagné, Hugo Scurto*
-16. [LiveGAN](https://drive.google.com/file/d/19RtJ9OUzP7Hs7L0CA3gXcD6z_rjsd0Q0/view?usp=sharing)
-    * *Cameron Smith*
-17. [Mask-Guided Discovery of Semantic Manifolds in Generative Models](https://drive.google.com/file/d/1lwC8N00PDU06zV-_TFFZ9nF_p2sdqjP_/view?usp=sharing)
-    * *Mengyu Yang, David Rokeby, Xavier Snelgrove*
-18. [A Speech-Based Music Composition Tool with Transformer](https://drive.google.com/file/d/1IO67Be0D3uwkQKg8zf7Bw6cAeP8SIj-K/view?usp=sharing)
-    * *Jason d'Eon, Sri Harsha Dumpala, Daniel Oore, Sageev Oore*    
-19. [Transformer-GAN: Symbolic music generation using a learned loss](https://drive.google.com/file/d/1UJIEcNNMkx9zLzGefoOsfogFpfY4vWAS/view?usp=sharing)
-    * *Aashiq Muhamed, Liang Li, Xingjian Shi, Suri Yaddanapudi, Wayne Chi, Dylan Jackson, Rahul Suresh, Zachary Lipton, Alexander J. Smola*
-20. [Latent Compass](https://drive.google.com/file/d/1EplfolN26hd8M2W1wPnSIe8Kbecww2dq/view?usp=sharing)
-    * *Sarah Schwettmann, Hendrik Strobelt, Mauro Martino*
-21. [Choreo-Graph: Learning Latent Graph Representations of the Dancing Body](https://drive.google.com/file/d/1d_ulQY1RtJ5T7roGa3JqLbVqyauWxn_r/view?usp=sharing)
-    * *Mariel Pettee, Santiago Miret, Somdeb Majumdar, Marcel Nassar*
-22. [Painting from Music using Neural Visual StyleTransfer](https://drive.google.com/file/d/1mqzDZtfOS0uZ2S5EbKnVEX3Hg5SZqW80/view?usp=sharing)
-    * *Ingrid Odlen, Prateek Verma, Constantin Basica, Pamela Davis Kivelson*
-23. [Horses With Blue Jeans - Creating New Worlds by Rewriting a GAN](https://drive.google.com/file/d/106Qn3Z3Pod5eK13YXXICtsx_C_BOtU3H/view?usp=sharing)
-    * *David Bau, Steven Liu, Tongzhou Wang, Jun-Yan Zhu, Antonio Torralba*
-24. [Spatial Assembly:Generative Architecture With Reinforcement Learning, Self Play and Tree Search](https://drive.google.com/file/d/1MMahskKy9ksirosLOSeuFYBLjP0ZfAtx/view?usp=sharing)
-    * *Panagiotis Tigas, Tyson Hosmer*
-25. [Text to Dialog: Using Semantic Similarity to Extend Narrative Immersion in Virtual Worlds](https://drive.google.com/file/d/10YsL1VopS3xxNvqDQBBavDeHog7SbFrY/view?usp=sharing)
-    * *Sherol Chen, Ben Pietrzak, Kory W. Matthewson, Dan Cary, Anna Kipnis, Erin Hoffman-John*
-26. [Towards realistic MIDI instrument synthesizers](https://drive.google.com/file/d/18bO7OrvpZlS4Pe9obuJSzr5YRVBdeDri/view?usp=sharing)
-    * *Rodrigo Castellon, Chris Donahue, Percy Liang*
-27. [Musical Diary - AI Application for Music Making and Journaling](https://drive.google.com/file/d/1SwT2R9u5BuDUproqmzy5lV_KFOsJ_QsU/view?usp=sharing)
-    * *Suyash Joshi, Devin Lane, Stephen Haney*
-28. [Copyspace: Where to Write on Images](https://drive.google.com/file/d/1UeUiFFYJjNnSZuSnThs6Btgv8vri1I7C/view?usp=sharing)
-    * *Jessica M. Lundin, Michael Sollami, Brian Lonsdorf, Alan Ross, Owen Schoppe, David Woodward, Sönke Rohde*
-29. [Weird AI Yankovic: Generating Parody Lyrics](https://drive.google.com/file/d/1cujlWzqbZlSOAjvD0YKJqftqgMHyC43O/view?usp=sharing)
-    * *Mark O. Riedl*
-30. [Generating Novel Glyph without Human Data by Learning to Communicate](https://drive.google.com/file/d/1Ixo8xYWDyV4aW7vTAgi-UgxW1spsrrcH/view?usp=sharing)
-    * *Seung-won Park*
-31. [Diptychs of human and machine perceptions](https://drive.google.com/file/d/1zi6vByMTlIynBUJhlR5BHA5cPRw-Dglg/view?usp=sharing)
-    * *Vivien Cabannes, Thomas Kerdreux, Louis Thiry*
-32. [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://drive.google.com/file/d/1tsfHvHTSYJkeGyEjIll3_ABY2SXaU3EV/view?usp=sharing)
-    * *Jinggang Zhuo, Ling Fan, Harry Jiannan Wang*
+We invite participation in the form of papers and/or artwork.
+
+### To Submit a Paper
+
+We invite participants to submit 2-page papers in the NeurIPS [camera-ready format](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) (with author names visible), to be submitted to our CMT portal. The link to the portal will be made available soon.
+
+Topics may include (but are not limited to):
+
+* Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc
+* Quantitative or qualitative evaluation of machine learning techniques for creative work and design
+* Tools or techniques to improve usability or usefulness of machine learning for creative practitioners
+* Descriptions, reflections, or case studies on the use of machine learning in the creation of a new art or design work
+* Information-theoretic views of creativity
+* Aesthetic, philosophical, social, cultural and ethical considerations surrounding the use of machine learning in creative practice
+
+We encourage all authors to consider the ethical implications of their work. This can be discussed in a 1-paragraph section at the end of the paper and will not count towards the page limit.
+
+In your submission, you may also indicate whether you would like to present a demo of your work during the workshop (if applicable).
+
+Papers will be reviewed by committee members in a single-blind process, and accepted authors can present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website. Please note that we do not adhere to a formal peer review process and are normally unable to provide detailed feedback on individual submissions. We encourage submission of work that has been previously published, and work in progress on relevant topics of the workshop. This workshop will not have an official proceedings.
+
+References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be the reviewers’ discretion to read the supplementary materials.
+
+### To Submit Artwork
+
+We welcome submission of artwork that has been created using machine learning (autonomously or with humans). We invite art submissions in any medium, including but not limited to:
+
+* Image
+* Video
+* Music
+* Writing
+* Sound
+* Dance, Performance, Installation, Physical Object, Food, etc 
+
+We can accommodate work submitted in one of the following formats: video, audio (maximum 2 channel), still image or website. Other types of submissions (e.g., physical artefacts, performances, text, …) should be documented using one or more of the above formats. For instance, you might submit a video of a machine-learning-generated dance piece or a website documenting a text generation piece.
+
+We will display the accepted art submissions on the [workshop gallery](http://www.aiartonline.com/) and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+
+Submissions must be made through the CMT portal. The submission link will be made available soon. You will also be asked for a short text description of your work and a description of how machine learning was used in its creation. 
+
+## Important Dates
+
+17 September 2021: Submission due date for papers and art
+
+15 October 2021: Acceptance notification for papers and art
+
+6–14 December 2020: NeurIPS Conference
+
+(TBA): Workshop
 
 ## Contact
 
 If you have any questions, please contact us at `neuripscreativityworkshop@googlegroups.com`
 
-Workshop website: [https://neuripscreativityworkshop.github.io/2020](https://neuripscreativityworkshop.github.io/2020)
+Workshop website: [https://neuripscreativityworkshop.github.io/2021](https://neuripscreativityworkshop.github.io/2021)
 
 Previous years:
 
+* [2020 workshop](https://neuripscreativityworkshop.github.io/2020) (Everywhere, Online)
 * [2019 workshop](http://neurips2019creativity.github.io/) (Vancouver, Canada)
 * [2018 workshop](https://nips2018creativity.github.io/) (Montreal, Canada)
 * [2017 workshop](https://nips2017creativity.github.io/) (Long Beach, CA, USA)
 
-The art submissions from this year and previous years can be viewed [here](http://www.aiartonline.com/)
+The art submissions from previous years can be viewed [here](http://www.aiartonline.com/)
 
 ## How to attend
 
-You should purchase a ticket on [neurips.cc](https://neurips.cc/). This will allow you to access [our website](https://neurips.cc/virtual/2020/protected/workshop_16131.html) on NeurIPS with links to the livestream, poster session and socials.
+To be announced.
 
 ## Organisers
 
-[Luba Elliott](https://twitter.com/elluba), AI Curator
-
-[Sander Dieleman](https://twitter.com/sedielem), DeepMind
-
-[Adam Roberts](https://twitter.com/ada_rob),  Magenta, Google Brain
-
 [Tom White](https://twitter.com/dribnet), Victoria University of Wellington
 
-[Holly Grimm](https://twitter.com/hollygrimm), Artist and freelance creative technologist
+[Mattie Tesfaldet](https://twitter.com/mattierialgirl), McGill University / MILA
 
-[Mattie Tesfaldet](https://twitter.com/mtesfald), McGill University / MILA
-
-[Samaneh Azadi](https://twitter.com/smnh_azadi), UC Berkeley
+[Samaneh Azadi](https://twitter.com/smnh_azadi), Facebook AI Research (FAIR)
 
 [Daphne Ippolito](https://twitter.com/daphneipp), University of Pennsylvania / Google Brain
+
+[Lia Coleman](https://twitter.com/Lialialiacole), Rhode Island School of Design
+
+[David Ha](https://twitter.com/hardmaru), Google Brain
