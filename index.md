@@ -65,7 +65,7 @@ This year we are asking for submissions to consist of:
 * One 1920x1080 main image (project_name_02.png)
 * Optionally: Up to 4 additional 1920x1080 images or a 1920x1080 mp4 video of up to 60 seconds showing the work in more detail. (project_name_03.png, project_name_04.png, project_name_05.png, project_name_06.png *or* project_name_03.mp4)
 
-Submissions should be formmated as a single project_name.zip file. We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+Submissions should be formatted as a single project_name.zip file. We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
 Submissions must be made through the CMT portal. The submission link will be made available soon.
 
