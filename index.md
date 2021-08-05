@@ -60,7 +60,7 @@ We welcome submission of artwork that has been created using machine learning (a
 
 This year we are asking for submissions to consist of:
 
-* A short text description of the work (up to 200 words) in the file description.txt
+* A short text description of the work (up to 200 words) in the file project_name_00.txt
 * One 1920x1080 "title slide" that includes title, artist, and optionally a short blurb. This will be used as a video intro and only when the text description is not available. (project_name_01.png)
 * One 1920x1080 main image (project_name_02.png)
 * Optionally: Up to 4 additional 1920x1080 images or a 1920x1080 mp4 video of up to 60 seconds showing the work in more detail. (project_name_03.png, project_name_04.png, project_name_05.png, project_name_06.png *or* project_name_03.mp4)
