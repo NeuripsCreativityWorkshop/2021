@@ -58,7 +58,14 @@ We welcome submission of artwork that has been created using machine learning (a
 * Sound
 * Dance, Performance, Installation, Physical Object, Food, etc 
 
-This year we are asking for work to be submitted as a series of one to six 1920x1024 images documenting the artwork along with a short text description of the work (up to 200 words). Images should be ordered starting at project_name_01.png so that they can be presented sequentially as a slideshow. The first image should be a self-documenting "title" slide that includes the title, artist, and optionally a blurb about piece as this title slide will be used instead of the text description and only when the work is displayed in a video format.
+This year we are asking for submissions to consist of:
+
+* A short text description of the work (up to 200 words)
+* One 1920x1080 "title slide" that includes title, artist, and optionally a short blurb. This will be used as a video intro and only when the text description is not available. (file_01.png)
+* One 1920x1080 main image (file_02.png)
+* Optionally: Up to 4 additional 1920x1080 images *or* a 1920x1080 mp4 video of up to 60 seconds showing the work in more detail. (file_03.png to file_06.png *or* file_03.mp4)
+
+Images should be ordered and named project_name_01.png so that they can be presented sequentially as a slideshow. The first two images should be the title image and the main image (01 and 02).
 
 We will display the accepted art submissions an online gallery and will do our best to show a number of art pieces at the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
