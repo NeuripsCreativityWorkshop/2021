@@ -28,7 +28,7 @@ We invite participation in the form of papers and/or artwork.
 
 ### To Submit a Paper
 
-We invite participants to submit 2-page papers in the NeurIPS [camera-ready format](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) (with author names visible), to be submitted to our CMT portal. The link to the portal will be made available soon.
+We invite participants to submit 2-page papers in the NeurIPS [camera-ready format](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) (with author names visible), to be submitted to our [CMT portal](https://cmt3.research.microsoft.com/ML4CD2021).
 
 Topics may include (but are not limited to):
 
@@ -67,11 +67,11 @@ This year we are asking for submissions to consist of:
 
 Submissions should be formatted as a single project_name.zip file. We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces as a slideshow during the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
 
-Submissions must be made through the CMT portal. The submission link will be made available soon.
+Submissions must be made through the [CMT portal](https://cmt3.research.microsoft.com/ML4CD2021).
 
 ## Important Dates
 
-17 September 2021: Submission due date for papers and art
+17 September 2021, 11:59 UTC: Submission due date for papers and art
 
 15 October 2021: Acceptance notification for papers and art
 
