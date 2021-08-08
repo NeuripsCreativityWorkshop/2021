@@ -81,7 +81,7 @@ Submissions must be made through the [CMT portal](https://cmt3.research.microsof
 
 ## Contact
 
-If you have any questions, please contact us at `neuripscreativityworkshop@googlegroups.com`
+If you have any questions, please contact us at [neuripscreativityworkshop@googlegroups.com](mailto:neuripscreativityworkshop@googlegroups.com)
 
 Workshop website: [https://neuripscreativityworkshop.github.io/2021](https://neuripscreativityworkshop.github.io/2021)
 
