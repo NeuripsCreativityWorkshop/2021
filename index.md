@@ -78,7 +78,7 @@ Submissions must be made through the [CMT portal](https://cmt3.research.microsof
 
 6–14 December 2021: NeurIPS Conference
 
-(TBA): Workshop
+Workshop: 13 December 2021 (Monday)
 
 ## Contact
 
