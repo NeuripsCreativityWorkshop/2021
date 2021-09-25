@@ -73,6 +73,7 @@ Submissions must be made through the [CMT portal](https://cmt3.research.microsof
 
 ~~17 September 2021, 11:59 UTC: Submission due date for papers and art~~<br>
 ~~24 September 2021, 11:59 UTC: Submission due date for papers and art (Extended)~~
+25 September 2021, 11:59 UTC: Submission due date for papers and art (Extended+)
 
 22 October 2021: Acceptance notification for papers and art
 
