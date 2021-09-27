@@ -98,7 +98,7 @@ The art submissions from previous years can be viewed [here](http://www.aiartonl
 
 ## How to attend
 
-To be announced.
+A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). This will allow you to access [our website](https://neurips.cc/virtual/2021/workshop/21876) on NeurIPS with links to the livestream, poster session and socials.
 
 ## Organisers
 
