@@ -80,7 +80,7 @@ Submissions must be made through the [CMT portal](https://cmt3.research.microsof
 ~~05 November 2021, 01:00 UTC: Camera-ready (or Revisions) due date for papers and art~~<br>
 ~~11 November 2021, 01:00 UTC: Camera-ready (or Revisions) due date for papers and art (Extended)~~<br>
 
-16 November 2021: Final acceptance/rejection notification for revised artwork submissions<br>
+~~16 November 2021: Final acceptance/rejection notification for revised artwork submissions~~<br>
 
 6–14 December 2021: NeurIPS Conference
 
