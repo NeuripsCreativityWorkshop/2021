@@ -16,7 +16,18 @@ As in previous years the workshop will include an open call for a display of art
 
 ## Invited Speakers
 
-To be announced.
+[Devi Parikh](https://twitter.com/deviparikh), Research Scientist at Facebook AI Research (FAIR) and Associate Professor in the School of Interactive Computing at Georgia Tech.
+
+[Hypereikon](https://twitter.com/hypereikon), Art duo specializing in Generative Visual Arts.
+
+[Joel Simon](https://twitter.com/_joelsimon), Multidisciplinary Artist, Toolmaker, and Researcher. Founder and Director of [Morphogen](https://twitter.com/studiomorphogen).
+
+[Kenric Allado-McDowell](https://twitter.com/kalladomcdowell), Writer, Speaker, and Musician. Co-author of the book [Pharmako-AI](https://ignota.org/products/pharmako-ai).
+
+[Mark Riedl](https://twitter.com/mark_riedl), Professor in the Georgia Tech School of Interactive Computing and Associate Director of the Georgia Tech Machine Learning Center.
+
+[Moisés Horta Valenzuela](https://twitter.com/hexorcismos), Sound Artist, Electronic Musician, and Creative Technologist.
+
 
 ## Schedule
 
