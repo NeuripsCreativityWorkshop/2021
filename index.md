@@ -28,57 +28,43 @@ As in previous years the workshop will include an open call for a display of art
 
 [Moisés Horta Valenzuela](https://twitter.com/hexorcismos), Sound Artist, Electronic Musician, and Creative Technologist.
 
+## Schedule and format
 
-## Schedule
+All times are in EST (UTC -5).
+
+Some of the below sessions will occur on our Discord server and some will occur in our Zoom livestream. You will find links to access all sessions at our [NeurIPS workshop website](https://neurips.cc/virtual/2021/workshop/21876) (registered participants only).
+
+| Time    | Event  |
+|---------|--------|
+| 11:15 | Welcome and Introduction<br/>*TBA, Zoom* |
+| 11:30 | Poster Session 1<br/>*All Posters, Discord* |
+| 12:30 | Computers, Creativity, and Lovelace<br/>*Speaker Presentation by Mark Riedl, Zoom* |
+| 13:00 | From Technologies to Tools<br/>*Speaker Presentation by Joel Simon, Zoom* |
+| 13:30 | Interspecies Intelligence in Pharmako-AI<br/>*Speaker Presentation by Kenric Allado-McDowell, Zoom* |
+| 14:00 | Art Show<br/>*Zoom* |
+| 14:30 | Q&A Panel Discussion 1<br/>*Mark Riedl, Joel Simon, and Kenric Allado-McDowell, moderated by TBA, Zoom + Rocketchat* |
+| 15:00 | Social 1<br/>*Discord* |
+| 15:30 | StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis<br/>*Paper Oral by Peter Schaldenbrand et al., Zoom* |
+| 15:40 | Soundify: Matching Sound Effects to Video<br/>*Paper Oral by David Chuan-En Lin et al., Zoom* |
+| 15:50 | Controllable and Interpretable Singing Voice Decomposition via Assem-VC<br/>*Paper Oral by Kang-wook Kim et al., Zoom* |
+| 16:00 | Extending the Vocabulary of Fictional Languages using Neural Networks<br/>*Paper Oral by Thomas Zacharias et al., Zoom* |
+| 16:10 | Jabberwocky<br/>*Artwork Spotlight by Vadim Epstein, Zoom* |
+| 16:15 | Iterative Iterative<br/>*Artwork Spotlight by Erin Smith, Zoom* |
+| 16:20 | Artificial Intelligence for High Heel Shoe Design<br/>*Artwork Spotlight by Sophia Neill, Zoom* |
+| 16:25 | text2pixelart<br/>*Artwork Spotlight by Alexey Tikhonov, Zoom* |
+| 16:30 | Poster Session 2<br/>*All Posters, Discord* |
+| 17:30 | AI for Augmenting Human Creativity<br/>*Speaker Presentation by Devi Parikh, Zoom* |
+| 18:00 | Okachihuali: Strategies for New Future Building with AI Art<br/>*Speaker Presentation by Moisés Horta Valenzuela, Zoom* |
+| 18:30 | Imaginatory Processes with VQGANxCLIP<br/>*Speaker Presentation by Hypereikon, Zoom* |
+| 19:00 | Art Show (repeated)<br/>*Zoom* |
+| 19:30 | Q&A Panel Discussion 2<br/>*Devi Parikh, Moisés Horta Valenzuela, and Hypereikon, moderated by TBA, Zoom + Rocketchat* |
+| 20:00 | Closing<br/>*TBA, Zoom* |
+| 20:15 | Social 2<br/>*Discord* |
+| 21:00 | End |
+
+## Accepted papers
 
 To be announced.
-
-## How To Participate
-
-We invite participation in the form of papers and/or artwork.
-
-### To Submit a Paper
-
-We invite participants to submit 2-page papers in the NeurIPS [camera-ready format](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) (with author names visible), to be submitted to our [CMT portal](https://cmt3.research.microsoft.com/ML4CD2021).
-
-Topics may include (but are not limited to):
-
-* Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc
-* Quantitative or qualitative evaluation of machine learning techniques for creative work and design
-* Tools or techniques to improve usability or usefulness of machine learning for creative practitioners
-* Descriptions, reflections, or case studies on the use of machine learning in the creation of a new art or design work
-* Information-theoretic views of creativity
-* Aesthetic, philosophical, social, cultural and ethical considerations surrounding the use of machine learning in creative practice
-
-We encourage all authors to consider the ethical implications of their work. This can be discussed in a 1-paragraph section at the end of the paper and will not count towards the page limit.
-
-In your submission, you may also indicate whether you would like to present a demo of your work during the workshop (if applicable).
-
-Papers will be reviewed by committee members in a single-blind process, and accepted authors can present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website. Please note that we do not adhere to a formal peer review process and are normally unable to provide detailed feedback on individual submissions. We encourage submission of work that has been previously published, and work in progress on relevant topics of the workshop. This workshop will not have an official proceedings.
-
-References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be the reviewers’ discretion to read the supplementary materials.
-
-### To Submit Artwork
-
-We welcome submission of artwork that has been created using machine learning (autonomously or with humans). We invite art submissions in any medium, including but not limited to:
-
-* Image
-* Video
-* Music
-* Writing
-* Sound
-* Dance, Performance, Installation, Physical Object, Food, etc 
-
-This year we are asking for submissions to consist of:
-
-* The title, year, artist, description (up to 200 words), and optionally a web link for additional information, or more content of the artwork hosted elsewhere, in the file project_name_00.txt
-* One 1920x1080 "title slide" that includes title, artist, and optionally a short blurb. This will be used as an intro for your artwork if it is to be displayed in slideshow format. (project_name_01.png)
-* One 1920x1080 main image (project_name_02.png)
-* Optionally: Up to 4 additional 1920x1080 images or a 1920x1080 mp4 video of up to 60 seconds showing the work in more detail. (project_name_03.png, project_name_04.png, project_name_05.png, project_name_06.png *or* project_name_03.mp4)
-
-Submissions should be formatted as a single project_name.zip file. We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces as a slideshow during the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
-
-Submissions must be made through the [CMT portal](https://cmt3.research.microsoft.com/ML4CD2021).
 
 ## Important Dates
 
