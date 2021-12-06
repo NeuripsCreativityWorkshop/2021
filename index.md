@@ -64,112 +64,112 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ## Accepted papers
 
-1. [ArtTension: Artistically extended generation based on single-image learning](https://neuripscreativityworkshop.github.io/2021/accepted/srw_5.pdf)
+1. [ArtTension: Artistically extended generation based on single-image learning](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_5.pdf)
     * *Jung-Jae Yu, Juwon Lee, Junmo Kim*
 
-2. [Audio-Guided Image Manipulation for Artistic Paintings](https://neuripscreativityworkshop.github.io/2021/accepted/srw_7.pdf)
+2. [Audio-Guided Image Manipulation for Artistic Paintings](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_7.pdf)
     * *Seung Hyun Lee, Nahyuk Lee, Chan Young Kim, Won Jeong Ryoo, Jinkyu Kim, Sang Ho Yoon, Sangpil Kim*
 
-3. [Aesthetic Evaluation of Ambiguous Imagery](https://neuripscreativityworkshop.github.io/2021/accepted/srw_9.pdf)
+3. [Aesthetic Evaluation of Ambiguous Imagery](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_9.pdf)
     * *Xi Wang, Zoya Bylinskii, Aaron Hertzmann, Robert Pepperell*
 
-4. [Dance2Music: Automatic Dance-driven Music Generation](https://neuripscreativityworkshop.github.io/2021/accepted/srw_11.pdf)
+4. [Dance2Music: Automatic Dance-driven Music Generation](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_11.pdf)
     * *Gunjan Aggarwal, Devi Parikh*
 
-5. [Telling Creative Stories Using Generative Visual Aids](https://neuripscreativityworkshop.github.io/2021/accepted/srw_16.pdf)
+5. [Telling Creative Stories Using Generative Visual Aids](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_16.pdf)
     * *Safinah Arshad Ali, Devi Parikh*
 
-6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/srw_17.pdf)
+6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf)
     * *David Chuan-En Lin, Anastasis Germanidis, Cristóbal Valenzuela, Yining Shi, Nikolas Martelaro*
 
-7. [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://neuripscreativityworkshop.github.io/2021/accepted/srw_18.pdf)
+7. [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_18.pdf)
     * *Yingtao Tian, David Ha*
 
-8. [Towards "Gestalt" Computation in Sound](https://neuripscreativityworkshop.github.io/2021/accepted/srw_19.pdf)
+8. [Towards "Gestalt" Computation in Sound](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_19.pdf)
     * *Ishwarya Ananthabhotla, David Ramsay, Joseph Paradiso*
 
-9. [Physically Embodied Deep Image Optimisation](https://neuripscreativityworkshop.github.io/2021/accepted/srw_20.pdf)
+9. [Physically Embodied Deep Image Optimisation](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_20.pdf)
     * *Daniela Mihai, Jonathon Hare*
 
-10. [Composer AI with tap-to-pitch generator](https://neuripscreativityworkshop.github.io/2021/accepted/srw_21.pdf)
+10. [Composer AI with tap-to-pitch generator](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_21.pdf)
     * *Hyeongrae Ihm, Sangjun Han, Woohyung Lim*
 
-11. [Deep Learning Tools for Audacity: Helping Researchers Expand the Artist's Toolkit](https://neuripscreativityworkshop.github.io/2021/accepted/srw_29.pdf)
+11. [Deep Learning Tools for Audacity: Helping Researchers Expand the Artist's Toolkit](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_29.pdf)
     * *Hugo F Flores Garcia, Aldo Aguilar, Ethan Manilow, Dmitry Vedenko, Bryan Pardo*
 
-12. [GANspire: Generating Breathing Waveforms for Art-Health Applications](https://neuripscreativityworkshop.github.io/2021/accepted/srw_32.pdf)
+12. [GANspire: Generating Breathing Waveforms for Art-Health Applications](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_32.pdf)
     * *Hugo Scurto, Baptiste Caramiaux, Thomas Similowski, Samuel Bianchini*
 
-13. [Losses, Dissonances, and Distortions](https://neuripscreativityworkshop.github.io/2021/accepted/srw_41.pdf)
+13. [Losses, Dissonances, and Distortions](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_41.pdf)
     * *Pablo Samuel Castro*
 
-14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/srw_44.pdf)
+14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf)
     * *Peter Schaldenbrand, Zhixuan Liu, Jean Oh*
 
-15. [Artistic Autonomy in AI Art](https://neuripscreativityworkshop.github.io/2021/accepted/srw_51.pdf)
+15. [Artistic Autonomy in AI Art](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_51.pdf)
     * *Alayt Abraham Issak*
 
-16. [Beauty](https://neuripscreativityworkshop.github.io/2021/accepted/srw_53.pdf)
+16. [Beauty](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_53.pdf)
     * *Carlos Castellanos, Bhushan Patil, Johnny Diblasi*
 
-17. [GANArtworks In the Mood](https://neuripscreativityworkshop.github.io/2021/accepted/srw_57.pdf)
+17. [GANArtworks In the Mood](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_57.pdf)
     * *Yuling Chen, Colorado J Reed, Hongsuk Nam, Kevin Jun, Chenlin Ye, David Vaughan, Joyce Shen, David Steier*
 
-18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/srw_58.pdf)
+18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf)
     * *Kang-Wook Kim, Junhyeok Lee*
 
-19. [BERTian Poetics: Constrained Composition with Masked LMs](https://neuripscreativityworkshop.github.io/2021/accepted/srw_59.pdf)
+19. [BERTian Poetics: Constrained Composition with Masked LMs](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_59.pdf)
     * *Christopher Akiki, Martin Potthast*
 
-20. [Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations](https://neuripscreativityworkshop.github.io/2021/accepted/srw_70.pdf)
+20. [Towards Lightweight Controllable Audio Synthesis with Conditional Implicit Neural Representations](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_70.pdf)
     * *Jan Zuiderveld, Marco Federici, Erik J Bekkers*
 
-21. [Inspiration Retrieval for Visual Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/srw_76.pdf)
+21. [Inspiration Retrieval for Visual Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_76.pdf)
     * *Nihal Jain, Praneetha Vaddamanu, Paridhi Maheshwari, Vishwa Vinay, Kuldeep Kulkarni*
 
-22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/srw_78.pdf)
+22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf)
     * *Thomas Zacharias, Ashutosh Taklikar, Raja Giryes*
 
-23. [Steerable discovery of neural audio effects](https://neuripscreativityworkshop.github.io/2021/accepted/srw_82.pdf)
+23. [Steerable discovery of neural audio effects](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_82.pdf)
     * *Christian J. Steinmetz, Joshua D. Reiss*
 
-24. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://neuripscreativityworkshop.github.io/2021/accepted/srw_85.pdf)
+24. [XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_85.pdf)
     * *V Manushree, Sameer Saxena, Parna Chowdhury, Manisimha Varma Manthena, Harsh Rathod, Ankita Ghosh, Sahil S Khose*
 
-25. [Exploring Latent Dimensions of Crowd-sourced Creativity](https://neuripscreativityworkshop.github.io/2021/accepted/srw_88.pdf)
+25. [Exploring Latent Dimensions of Crowd-sourced Creativity](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_88.pdf)
     * *Umut Kocasari, Alperen Bag, Efehan Atici, Pinar Yanardag*
 
-26. [Ethics and Creativity in Computer Vision](https://neuripscreativityworkshop.github.io/2021/accepted/srw_89.pdf)
+26. [Ethics and Creativity in Computer Vision](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_89.pdf)
     * *Negar Rostamzadeh, Emily Denton, Linda Petrini*
 
-27. [Evolving Evocative 2D Views of Generated 3D Objects](https://neuripscreativityworkshop.github.io/2021/accepted/srw_93.pdf)
+27. [Evolving Evocative 2D Views of Generated 3D Objects](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_93.pdf)
     * *Eric Chu*
 
-28. [RiverGAN: Fluvial Landscapes Generation with Conditional GAN and Physical Simulations](https://neuripscreativityworkshop.github.io/2021/accepted/srw_94.pdf)
+28. [RiverGAN: Fluvial Landscapes Generation with Conditional GAN and Physical Simulations](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_94.pdf)
     * *Xun Liu, Runjia Tian*
 
-29. [Sculpting with Words](https://neuripscreativityworkshop.github.io/2021/accepted/srw_98.pdf)
+29. [Sculpting with Words](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_98.pdf)
     * *Joel Simon, Victor Perez Muñoz, Tal Shiri*
 
-30. [Neural Design Space Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/srw_99.pdf)
+30. [Neural Design Space Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_99.pdf)
     * *Wei Jiang, Richard Davis, Kevin Gonyop Kim, Pierre Dillenbourg*
 
-31. [Inspiration through Observation: Demonstrating the Influence of Generated Text on Creative Writing](https://neuripscreativityworkshop.github.io/2021/accepted/srw_102.pdf)
+31. [Inspiration through Observation: Demonstrating the Influence of Generated Text on Creative Writing](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_102.pdf)
     * *Melissa Roemmele*
 
-32. [Gaudí: Conversational Interactions with Deep Representations to Generate Image Collections](https://neuripscreativityworkshop.github.io/2021/accepted/srw_104.pdf)
+32. [Gaudí: Conversational Interactions with Deep Representations to Generate Image Collections](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_104.pdf)
     * *Victor S Bursztyn, Jennifer Healey, Vishwa Vinay*
 
-33. [Discriminator Synthesis: On reusing the other half of Generative Adversarial Networks](https://neuripscreativityworkshop.github.io/2021/accepted/srw_105.pdf)
+33. [Discriminator Synthesis: On reusing the other half of Generative Adversarial Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_105.pdf)
     * *Diego Porres*
 
-34. [Malakai: Music That Adapts to the Shape of Emotions](https://neuripscreativityworkshop.github.io/2021/accepted/srw_108.pdf)
+34. [Malakai: Music That Adapts to the Shape of Emotions](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_108.pdf)
     * *Zack Harris, Liam Clarke, Pablo Samuel Castro, Dante Camarena, Pietro Gagliano, Manal Siddiqui*
 
-35. [Generating Diverse Realistic Laughterfor Interactive Art](https://neuripscreativityworkshop.github.io/2021/accepted/srw_110.pdf)
+35. [Generating Diverse Realistic Laughterfor Interactive Art](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_110.pdf)
     * *Mehdi Afsar, Eric Park, Etienne Paquette, Gauthier Gidel, Kory Mathewson, Eilif Muller*
 
-36. [ABCD: A Bach Chorale Discriminator](https://neuripscreativityworkshop.github.io/2021/accepted/srw_111.pdf)
+36. [ABCD: A Bach Chorale Discriminator](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_111.pdf)
     * *Jason D'Eon, Sageev Oore*
 
 ## Important Dates
