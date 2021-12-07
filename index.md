@@ -36,13 +36,13 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 | Time    | Event  |
 |---------|--------|
-| 11:15 | Welcome and Introduction<br/>*TBA; Zoom* |
+| 11:15 | Welcome and Introduction<br/>*Presented by Mattie Tesfaldet; Zoom* |
 | 11:30 | Poster Session 1<br/>*All Posters; Discord* |
 | 12:30 | Computers, Creativity, and Lovelace<br/>*Speaker Presentation by Mark Riedl; Zoom* |
-| 13:00 | From Technologies to Tools<br/>*Speaker Presentation by Joel Simon; Zoom* |
+| 13:00 | AI for Augmenting Human Creativity<br/>*Speaker Presentation by Devi Parikh; Zoom* |
 | 13:30 | Interspecies Intelligence in Pharmako-AI<br/>*Speaker Presentation by Kenric Allado-McDowell; Zoom* |
 | 14:00 | Art Show<br/>*Zoom* |
-| 14:30 | Q&A Panel Discussion 1<br/>*Mark Riedl, Joel Simon, and Kenric Allado-McDowell, moderated by TBA; Zoom + Rocketchat* |
+| 14:30 | Q&A Panel Discussion 1<br/>*Mark Riedl, Devi Parikh, and Kenric Allado-McDowell, moderated by Mattie Tesfaldet; Zoom + Rocketchat* |
 | 15:00 | Social 1<br/>*Discord* |
 | 15:30 | StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis<br/>*Paper Oral by Peter Schaldenbrand et al.; Zoom* |
 | 15:40 | Soundify: Matching Sound Effects to Video<br/>*Paper Oral by David Chuan-En Lin et al.; Zoom* |
@@ -53,11 +53,11 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 16:20 | Artificial Intelligence for High Heel Shoe Design<br/>*Artwork Spotlight by Sophia Neill; Zoom* |
 | 16:25 | text2pixelart<br/>*Artwork Spotlight by Alexey Tikhonov; Zoom* |
 | 16:30 | Poster Session 2<br/>*All Posters; Discord* |
-| 17:30 | AI for Augmenting Human Creativity<br/>*Speaker Presentation by Devi Parikh; Zoom* |
+| 17:30 | From Technologies to Tools<br/>*Speaker Presentation by Joel Simon; Zoom* | 
 | 18:00 | Okachihuali: Strategies for New Future Building with AI Art<br/>*Speaker Presentation by Moisés Horta Valenzuela; Zoom* |
 | 18:30 | Imaginatory Processes with VQGANxCLIP<br/>*Speaker Presentation by Hypereikon; Zoom* |
 | 19:00 | Art Show (repeated)<br/>*Zoom* |
-| 19:30 | Q&A Panel Discussion 2<br/>*Devi Parikh, Moisés Horta Valenzuela, and Hypereikon, moderated by TBA; Zoom + Rocketchat* |
+| 19:30 | Q&A Panel Discussion 2<br/>*Joel Simon, Moisés Horta Valenzuela, and Hypereikon, moderated by David Ha; Zoom + Rocketchat* |
 | 20:00 | Closing<br/>*TBA; Zoom* |
 | 20:15 | Social 2<br/>*Discord* |
 | 21:00 | End |
@@ -180,7 +180,7 @@ This year we saw 52 artwork submissions with a near 100% acceptance rate. Artwor
 
 ## Call for Submissions
 
-We invite submissions in the form of papers and/or artwork. **Update: submissions are CLOSED.**
+We invite submissions in the form of papers and/or artwork. **Update: submissions are now CLOSED.**
 
 ### To Submit a Paper
 
@@ -240,7 +240,7 @@ Submissions should be formatted as a single `project_name.zip` file. We will dis
 
 6–14 December 2021: NeurIPS Conference
 
-13 December 2021: Workshop
+**13 December 2021: Workshop**
 
 ## Contact
 
