@@ -64,6 +64,8 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ## Accepted papers
 
+This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance rate). Four exceptional papers were awarded an Oral acceptance in the form of a 10-min presentation during the workshop.
+
 1. [ArtTension: Artistically extended generation based on single-image learning](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_5.pdf)
     * *Jung-Jae Yu, Juwon Lee, Junmo Kim*
 
@@ -79,7 +81,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 5. [Telling Creative Stories Using Generative Visual Aids](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_16.pdf)
     * *Safinah Arshad Ali, Devi Parikh*
 
-6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf)
+6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf) | _**Oral**_
     * *David Chuan-En Lin, Anastasis Germanidis, Cristóbal Valenzuela, Yining Shi, Nikolas Martelaro*
 
 7. [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_18.pdf)
@@ -103,7 +105,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 13. [Losses, Dissonances, and Distortions](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_41.pdf)
     * *Pablo Samuel Castro*
 
-14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf)
+14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf) | _**Oral**_
     * *Peter Schaldenbrand, Zhixuan Liu, Jean Oh*
 
 15. [Artistic Autonomy in AI Art](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_51.pdf)
@@ -115,7 +117,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 17. [GANArtworks In the Mood](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_57.pdf)
     * *Yuling Chen, Colorado J Reed, Hongsuk Nam, Kevin Jun, Chenlin Ye, David Vaughan, Joyce Shen, David Steier*
 
-18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf)
+18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) | _**Oral**_
     * *Kang-Wook Kim, Junhyeok Lee*
 
 19. [BERTian Poetics: Constrained Composition with Masked LMs](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_59.pdf)
@@ -127,7 +129,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 21. [Inspiration Retrieval for Visual Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_76.pdf)
     * *Nihal Jain, Praneetha Vaddamanu, Paridhi Maheshwari, Vishwa Vinay, Kuldeep Kulkarni*
 
-22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf)
+22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf) | _**Oral**_
     * *Thomas Zacharias, Ashutosh Taklikar, Raja Giryes*
 
 23. [Steerable discovery of neural audio effects](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_82.pdf)
@@ -171,6 +173,10 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 36. [ABCD: A Bach Chorale Discriminator](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_111.pdf)
     * *Jason D'Eon, Sageev Oore*
+
+## Accepted artworks
+
+This year we saw 52 artwork submissions with a near 100% acceptance rate. Artworks were accepted unless they violated formatting requirements. Four exceptional artworks were awarded a spotlight in the form of a 5-min presentation during the workshop. Artworks will be displayed during the workshop in the form of a slideshow and on our online art gallery at a TBA post-workshop date.
 
 ## Call for Submissions
 
