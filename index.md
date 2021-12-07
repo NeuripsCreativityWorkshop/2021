@@ -79,7 +79,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 5. [Telling Creative Stories Using Generative Visual Aids](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_16.pdf)
     * *Safinah Arshad Ali, Devi Parikh*
 
-6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf)
+6. **ORAL** [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf)
     * *David Chuan-En Lin, Anastasis Germanidis, Cristóbal Valenzuela, Yining Shi, Nikolas Martelaro*
 
 7. [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_18.pdf)
@@ -103,7 +103,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 13. [Losses, Dissonances, and Distortions](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_41.pdf)
     * *Pablo Samuel Castro*
 
-14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf)
+14. **ORAL** [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf)
     * *Peter Schaldenbrand, Zhixuan Liu, Jean Oh*
 
 15. [Artistic Autonomy in AI Art](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_51.pdf)
@@ -115,7 +115,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 17. [GANArtworks In the Mood](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_57.pdf)
     * *Yuling Chen, Colorado J Reed, Hongsuk Nam, Kevin Jun, Chenlin Ye, David Vaughan, Joyce Shen, David Steier*
 
-18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf)
+18. **ORAL** [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf)
     * *Kang-Wook Kim, Junhyeok Lee*
 
 19. [BERTian Poetics: Constrained Composition with Masked LMs](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_59.pdf)
@@ -127,7 +127,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 21. [Inspiration Retrieval for Visual Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_76.pdf)
     * *Nihal Jain, Praneetha Vaddamanu, Paridhi Maheshwari, Vishwa Vinay, Kuldeep Kulkarni*
 
-22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf)
+22. **ORAL** [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf)
     * *Thomas Zacharias, Ashutosh Taklikar, Raja Giryes*
 
 23. [Steerable discovery of neural audio effects](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_82.pdf)
