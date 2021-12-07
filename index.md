@@ -58,7 +58,7 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 18:30 | Imaginatory Processes with VQGANxCLIP<br/>*Speaker Presentation by Hypereikon; Zoom* |
 | 19:00 | Art Show (repeated)<br/>*Zoom* |
 | 19:30 | Q&A Panel Discussion 2<br/>*Joel Simon, Moisés Horta Valenzuela, and Hypereikon, moderated by David Ha; Zoom + Rocketchat* |
-| 20:00 | Closing<br/>*TBA; Zoom* |
+| 20:00 | Closing remarks<br/>*Presented by Tom White; Zoom* |
 | 20:15 | Social 2<br/>*Discord* |
 | 21:00 | End |
 
