@@ -36,13 +36,13 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 | Time    | Event  |
 |---------|--------|
-| 11:15 | Welcome and Introduction<br/>*TBA; Zoom* |
+| 11:15 | Welcome and Introduction<br/>*Presented by Mattie Tesfaldet; Zoom* |
 | 11:30 | Poster Session 1<br/>*All Posters; Discord* |
 | 12:30 | Computers, Creativity, and Lovelace<br/>*Speaker Presentation by Mark Riedl; Zoom* |
-| 13:00 | From Technologies to Tools<br/>*Speaker Presentation by Joel Simon; Zoom* |
+| 13:00 | AI for Augmenting Human Creativity<br/>*Speaker Presentation by Devi Parikh; Zoom* |
 | 13:30 | Interspecies Intelligence in Pharmako-AI<br/>*Speaker Presentation by Kenric Allado-McDowell; Zoom* |
 | 14:00 | Art Show<br/>*Zoom* |
-| 14:30 | Q&A Panel Discussion 1<br/>*Mark Riedl, Joel Simon, and Kenric Allado-McDowell, moderated by TBA; Zoom + Rocketchat* |
+| 14:30 | Q&A Panel Discussion 1<br/>*Mark Riedl, Devi Parikh, and Kenric Allado-McDowell, moderated by Mattie Tesfaldet; Zoom + Rocketchat* |
 | 15:00 | Social 1<br/>*Discord* |
 | 15:30 | StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis<br/>*Paper Oral by Peter Schaldenbrand et al.; Zoom* |
 | 15:40 | Soundify: Matching Sound Effects to Video<br/>*Paper Oral by David Chuan-En Lin et al.; Zoom* |
@@ -53,12 +53,12 @@ Some of the below sessions will occur on our Discord server and some will occur 
 | 16:20 | Artificial Intelligence for High Heel Shoe Design<br/>*Artwork Spotlight by Sophia Neill; Zoom* |
 | 16:25 | text2pixelart<br/>*Artwork Spotlight by Alexey Tikhonov; Zoom* |
 | 16:30 | Poster Session 2<br/>*All Posters; Discord* |
-| 17:30 | AI for Augmenting Human Creativity<br/>*Speaker Presentation by Devi Parikh; Zoom* |
+| 17:30 | From Technologies to Tools<br/>*Speaker Presentation by Joel Simon; Zoom* | 
 | 18:00 | Okachihuali: Strategies for New Future Building with AI Art<br/>*Speaker Presentation by Moisés Horta Valenzuela; Zoom* |
 | 18:30 | Imaginatory Processes with VQGANxCLIP<br/>*Speaker Presentation by Hypereikon; Zoom* |
 | 19:00 | Art Show (repeated)<br/>*Zoom* |
-| 19:30 | Q&A Panel Discussion 2<br/>*Devi Parikh, Moisés Horta Valenzuela, and Hypereikon, moderated by TBA; Zoom + Rocketchat* |
-| 20:00 | Closing<br/>*TBA; Zoom* |
+| 19:30 | Q&A Panel Discussion 2<br/>*Joel Simon, Moisés Horta Valenzuela, and Hypereikon, moderated by David Ha; Zoom + Rocketchat* |
+| 20:00 | Closing remarks<br/>*Presented by Tom White; Zoom* |
 | 20:15 | Social 2<br/>*Discord* |
 | 21:00 | End |
 
@@ -81,11 +81,7 @@ This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance
 5. [Telling Creative Stories Using Generative Visual Aids](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_16.pdf)
     * *Safinah Arshad Ali, Devi Parikh*
 
-<<<<<<< HEAD
-6. **ORAL** [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf)
-=======
-6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf) | _**Oral**_
->>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
+6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf) \| _**Oral**_
     * *David Chuan-En Lin, Anastasis Germanidis, Cristóbal Valenzuela, Yining Shi, Nikolas Martelaro*
 
 7. [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_18.pdf)
@@ -109,11 +105,7 @@ This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance
 13. [Losses, Dissonances, and Distortions](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_41.pdf)
     * *Pablo Samuel Castro*
 
-<<<<<<< HEAD
-14. **ORAL** [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf)
-=======
-14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf) | _**Oral**_
->>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
+14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf) \| _**Oral**_
     * *Peter Schaldenbrand, Zhixuan Liu, Jean Oh*
 
 15. [Artistic Autonomy in AI Art](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_51.pdf)
@@ -125,11 +117,7 @@ This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance
 17. [GANArtworks In the Mood](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_57.pdf)
     * *Yuling Chen, Colorado J Reed, Hongsuk Nam, Kevin Jun, Chenlin Ye, David Vaughan, Joyce Shen, David Steier*
 
-<<<<<<< HEAD
-18. **ORAL** [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf)
-=======
-18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) | _**Oral**_
->>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
+18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) \| _**Oral**_
     * *Kang-Wook Kim, Junhyeok Lee*
 
 19. [BERTian Poetics: Constrained Composition with Masked LMs](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_59.pdf)
@@ -141,11 +129,7 @@ This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance
 21. [Inspiration Retrieval for Visual Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_76.pdf)
     * *Nihal Jain, Praneetha Vaddamanu, Paridhi Maheshwari, Vishwa Vinay, Kuldeep Kulkarni*
 
-<<<<<<< HEAD
-22. **ORAL** [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf)
-=======
-22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf) | _**Oral**_
->>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
+22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf) \| _**Oral**_
     * *Thomas Zacharias, Ashutosh Taklikar, Raja Giryes*
 
 23. [Steerable discovery of neural audio effects](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_82.pdf)
@@ -196,7 +180,7 @@ This year we saw 52 artwork submissions with a near 100% acceptance rate. Artwor
 
 ## Call for Submissions
 
-We invite submissions in the form of papers and/or artwork. **Update: submissions are CLOSED.**
+We invite submissions in the form of papers and/or artwork. **Update: submissions are now CLOSED.**
 
 ### To Submit a Paper
 
@@ -256,7 +240,7 @@ Submissions should be formatted as a single `project_name.zip` file. We will dis
 
 6–14 December 2021: NeurIPS Conference
 
-13 December 2021: Workshop
+**13 December 2021: Workshop**
 
 ## Contact
 
