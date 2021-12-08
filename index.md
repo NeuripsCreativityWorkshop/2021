@@ -274,3 +274,8 @@ A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). Th
 [Lia Coleman](https://twitter.com/Lialialiacole), Rhode Island School of Design
 
 [David Ha](https://twitter.com/hardmaru), Google Brain
+
+## Sponsors
+
+![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2880px-Google_2015_logo.svg.png){:class="img-responsive"}
+
