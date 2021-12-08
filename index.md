@@ -64,6 +64,8 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 ## Accepted papers
 
+This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance rate). Four exceptional papers were awarded an Oral acceptance in the form of a 10-min presentation during the workshop.
+
 1. [ArtTension: Artistically extended generation based on single-image learning](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_5.pdf)
     * *Jung-Jae Yu, Juwon Lee, Junmo Kim*
 
@@ -79,7 +81,11 @@ Some of the below sessions will occur on our Discord server and some will occur 
 5. [Telling Creative Stories Using Generative Visual Aids](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_16.pdf)
     * *Safinah Arshad Ali, Devi Parikh*
 
+<<<<<<< HEAD
 6. **ORAL** [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf)
+=======
+6. [Soundify: Matching Sound Effects to Video](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf) | _**Oral**_
+>>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
     * *David Chuan-En Lin, Anastasis Germanidis, Cristóbal Valenzuela, Yining Shi, Nikolas Martelaro*
 
 7. [Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_18.pdf)
@@ -103,7 +109,11 @@ Some of the below sessions will occur on our Discord server and some will occur 
 13. [Losses, Dissonances, and Distortions](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_41.pdf)
     * *Pablo Samuel Castro*
 
+<<<<<<< HEAD
 14. **ORAL** [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf)
+=======
+14. [StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Synthesis](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf) | _**Oral**_
+>>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
     * *Peter Schaldenbrand, Zhixuan Liu, Jean Oh*
 
 15. [Artistic Autonomy in AI Art](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_51.pdf)
@@ -115,7 +125,11 @@ Some of the below sessions will occur on our Discord server and some will occur 
 17. [GANArtworks In the Mood](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_57.pdf)
     * *Yuling Chen, Colorado J Reed, Hongsuk Nam, Kevin Jun, Chenlin Ye, David Vaughan, Joyce Shen, David Steier*
 
+<<<<<<< HEAD
 18. **ORAL** [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf)
+=======
+18. [Controllable and Interpretable Singing Voice Decomposition via Assem-VC](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf) | _**Oral**_
+>>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
     * *Kang-Wook Kim, Junhyeok Lee*
 
 19. [BERTian Poetics: Constrained Composition with Masked LMs](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_59.pdf)
@@ -127,7 +141,11 @@ Some of the below sessions will occur on our Discord server and some will occur 
 21. [Inspiration Retrieval for Visual Exploration](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_76.pdf)
     * *Nihal Jain, Praneetha Vaddamanu, Paridhi Maheshwari, Vishwa Vinay, Kuldeep Kulkarni*
 
+<<<<<<< HEAD
 22. **ORAL** [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf)
+=======
+22. [Extending the Vocabulary of Fictional Languages using Neural Networks](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf) | _**Oral**_
+>>>>>>> 0103e63683e8f9cb4dc670c8857a176bc589aed7
     * *Thomas Zacharias, Ashutosh Taklikar, Raja Giryes*
 
 23. [Steerable discovery of neural audio effects](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_82.pdf)
@@ -171,6 +189,57 @@ Some of the below sessions will occur on our Discord server and some will occur 
 
 36. [ABCD: A Bach Chorale Discriminator](https://neuripscreativityworkshop.github.io/2021/accepted/ncw_111.pdf)
     * *Jason D'Eon, Sageev Oore*
+
+## Accepted artworks
+
+This year we saw 52 artwork submissions with a near 100% acceptance rate. Artworks were accepted unless they violated formatting requirements. Four exceptional artworks were awarded a spotlight in the form of a 5-min presentation during the workshop. Artworks will be displayed during the workshop in the form of a slideshow and on our online art gallery at a TBA post-workshop date.
+
+## Call for Submissions
+
+We invite submissions in the form of papers and/or artwork. **Update: submissions are CLOSED.**
+
+### To Submit a Paper
+
+~~We invite participants to submit 2-page papers in the NeurIPS [camera-ready format](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) (with author names visible), to be submitted to our [CMT portal](https://cmt3.research.microsoft.com/ML4CD2021).~~<br>
+
+Topics may include (but are not limited to):
+
+* Presentation of new machine learning techniques for generating art, music, or other creative outputs using, for instance, reinforcement learning, generative adversarial networks, novelty search and evaluation, etc
+* Quantitative or qualitative evaluation of machine learning techniques for creative work and design
+* Tools or techniques to improve usability or usefulness of machine learning for creative practitioners
+* Descriptions, reflections, or case studies on the use of machine learning in the creation of a new art or design work
+* Information-theoretic views of creativity
+* Aesthetic, philosophical, social, cultural and ethical considerations surrounding the use of machine learning in creative practice
+
+We encourage all authors to consider the ethical implications of their work. This can be discussed in a 1-paragraph section at the end of the paper and will not count towards the page limit.
+
+In your submission, you may also indicate whether you would like to present a demo of your work during the workshop (if applicable).
+
+Papers will be reviewed by committee members in a single-blind process, and accepted authors can present at the workshop in the form of a short talk, panel, and/or demo. At least one author of each accepted paper must register for and attend the workshop. Accepted papers will appear on the workshop website. Please note that we do not adhere to a formal peer review process and are normally unable to provide detailed feedback on individual submissions. We encourage submission of work that has been previously published, and work in progress on relevant topics of the workshop. This workshop will not have an official proceedings.
+
+References and any supplementary materials provided do not count as part of the 2-page limit. However, it will be the reviewers’ discretion to read the supplementary materials.
+
+### To Submit Artwork
+
+We welcome submission of artwork that has been created using machine learning (autonomously or with humans). We invite art submissions in any medium, including but not limited to:
+
+* Image
+* Video
+* Music
+* Writing
+* Sound
+* Dance, Performance, Installation, Physical Object, Food, etc 
+
+This year we are asking for submissions to consist of:
+
+* The title, year, artist, description (up to 200 words), and optionally a web link for additional information, or more content of the artwork hosted elsewhere, in the file `project_name_00.txt`
+* One 1920x1080 "title slide" that includes title, artist, and optionally a short blurb. This will be used as an intro for your artwork if it is to be displayed in slideshow format. (`project_name_01.png`)
+* One 1920x1080 main image (`project_name_02.png`)
+* Optionally: Up to 4 additional 1920x1080 images or a 1920x1080 mp4 video of up to 60 seconds showing the work in more detail. (`project_name_03.png`, `project_name_04.png`, `project_name_05.png`, `project_name_06.png` *or* `project_name_03.mp4`)
+
+Submissions should be formatted as a single `project_name.zip` file. We will display the accepted art submissions in an online gallery and will do our best to show a number of art pieces as a slideshow during the online workshop itself. We may invite creators of accepted artwork to participate in the form of a short talk, panel, and/or demo.
+
+~~Submissions must be made through the [CMT portal](https://cmt3.research.microsoft.com/ML4CD2021).~~<br>
 
 ## Important Dates
 
@@ -221,3 +290,8 @@ A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). Th
 [Lia Coleman](https://twitter.com/Lialialiacole), Rhode Island School of Design
 
 [David Ha](https://twitter.com/hardmaru), Google Brain
+
+## Sponsors
+
+![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2880px-Google_2015_logo.svg.png){:class="img-responsive"}
+
