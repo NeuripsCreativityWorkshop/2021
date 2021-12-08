@@ -277,5 +277,5 @@ A registration ticket must be purchased on [neurips.cc](https://neurips.cc/). Th
 
 ## Sponsors
 
-![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2880px-Google_2015_logo.svg.png){:class="img-responsive"}
+![Google](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2880px-Google_2015_logo.svg.png){:class="img-responsive" width="50%"}
 
