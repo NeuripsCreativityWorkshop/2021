@@ -1,5 +1,5 @@
 ## Introduction
-
+testing123
 Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music--including recent advances such as CLIP, VQGAN, and DALL·E. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
 
 **State-of-the-art algorithms for the creation of new media**. Machine learning models achieving state-of-the-art in traditional media creation tasks (e.g., image, audio, or video synthesis) that are also being used by the artist community will be showcased.
