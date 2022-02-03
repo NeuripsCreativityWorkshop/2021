@@ -177,7 +177,7 @@ This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance
 
 This year we saw 52 artwork submissions with a near 100% acceptance rate. Artworks were accepted unless they violated formatting requirements. Four exceptional artworks were awarded a spotlight in the form of a 5-min presentation during the workshop. Artworks will be displayed during the workshop in the form of a slideshow and on our online art gallery at a TBA post-workshop date.
 
-{% include youtubeplayer.html id=MtWk2GoHX9A %}
+{% include youtubeplayer.html id='MtWk2GoHX9A' %}
 
 ## Call for Submissions
 
