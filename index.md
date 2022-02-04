@@ -1,5 +1,4 @@
 ## Introduction
-
 Machine co-creativity continues to grow and attract a wider audience to machine learning. Generative models, for example, have enabled new types of media creation across language, images, and music--including recent advances such as CLIP, VQGAN, and DALL·E. This one-day workshop will broadly explore topics in the applications of machine learning to creativity and design, which includes:
 
 **State-of-the-art algorithms for the creation of new media**. Machine learning models achieving state-of-the-art in traditional media creation tasks (e.g., image, audio, or video synthesis) that are also being used by the artist community will be showcased.
@@ -177,6 +176,8 @@ This year we saw 65 paper submissions, 36 of which were accepted (55% acceptance
 ## Accepted artworks
 
 This year we saw 52 artwork submissions with a near 100% acceptance rate. Artworks were accepted unless they violated formatting requirements. Four exceptional artworks were awarded a spotlight in the form of a 5-min presentation during the workshop. Artworks will be displayed during the workshop in the form of a slideshow and on our online art gallery at a TBA post-workshop date.
+
+{% include youtubeplayer.html id='MtWk2GoHX9A' %}
 
 ## Call for Submissions
 
