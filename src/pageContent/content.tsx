@@ -882,8 +882,8 @@ export const content = {
                     awarded a spotlight in the form of a 5-min presentation
                     during the workshop. During the workshop, artworks were
                     displayed in the form of a slideshow (below). Our{' '}
-                    <a href="/#/gallery">online art gallery</a> contains all of
-                    the accepted artworks.
+                    <a href="/2021/#/gallery">online art gallery</a> contains
+                    all of the accepted artworks.
                 </p>
                 <div className="embed-container">
                     <iframe
