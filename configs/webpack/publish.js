@@ -19,7 +19,7 @@ module.exports = merge(commonConfig, {
     output: {
         filename: 'js/bundle.[contenthash].min.js',
         path: resolve(__dirname, '../../docs'),
-        publicPath: '/ML4CD_site/',
+        publicPath: '/2021/',
     },
     devtool: 'source-map',
     plugins: [
