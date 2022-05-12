@@ -1,0 +1,14 @@
+dist/
+node_modules/
+src/**/*.jsx
+tests/__coverage__/
+tests/**/*.jsx
+coverage/
+*.log
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

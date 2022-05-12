@@ -1,0 +1,730 @@
+[
+    {
+        "ID": 3,
+        "Title": "These Places Do Not Exist",
+        "Author": "Nicholas Carolan (Amherst College)*",
+        "Year": 2020,
+        "Description": "These are places that do not exist, a collection of imaginary U.S. Census tracts conjured up by the StyleGAN2-ada deep generative model. The real U.S. Census tracts - 74,134 in total - are the most granular official subdivision of the United States. Their unique shapes and features are being chronicled by artist Neil Freeman through his Twitter bot @everytract, which posts aerial photography of every census tract, one tract every half hour. Following other work in ultra-realistic generative creation, notably This Person Do Not Exist, I probe the artistic realism and creative understanding of state-of-the-art machine learning. This project uses the U.S. Census aerial images from @everytract to train one of the most highly performant generative models, StyleGAN2-ada. The result is a machine-imagined view of artificial geography and communities, some dreamlike and some remarkably real. \n\nWeb Link for additional information: https://ncarolan.github.io/fakeplaces",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/3/fake_places_01.png",
+            "https://workshop2021.blob.core.windows.net/art/3/fake_places_02.png",
+            "https://workshop2021.blob.core.windows.net/art/3/fake_places_03.png",
+            "https://workshop2021.blob.core.windows.net/art/3/fake_places_04.png",
+            "https://workshop2021.blob.core.windows.net/art/3/fake_places_05.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 6,
+        "Title": "Zones of focus and discomfort",
+        "Author": "Hannu K Töyrylä (individual)*",
+        "Year": 2021,
+        "Description": "These two images form a part of my struggle, during most of this year, to get to grips with CLIP and text based image synthesis, \nto subdue the purely textual guidance and incorporate CLIP into a predominantly image based, visually guided \nartistic process.\n\nHere, the images were generated with an totally untrained GAN generator, a randomly initialized deconvolution stack, guided by CLIP from textual input. \nThe visual style is limited to what the generator is able to produce, a shortcoming which is here turned into an advantage\nto counteract the independent generative tendendies inherent in CLIP.\n\nFor more on my attempts to use CLIP in a process which is primarily visual, see http://liipetti.net/visual/staying-visual-in-a-clip-world/\r",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/6/focus_and_discomfort_01.png",
+            "https://workshop2021.blob.core.windows.net/art/6/focus_and_discomfort_02.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 12,
+        "Title": "November 2020: Looptime",
+        "Author": "Allison Costa (Barnard College Movement Lab)*",
+        "Year": 2020,
+        "Description": "“Time Enough” studies our perception and experience of time through dance and technology with 10 smaller-scale experiments (or “clocks,” if you will) each depicting a different element of my creative research. The clock “November 2020: Looptime” was inspired by a performance by Thomas DeFrantz/slippage, in which DeFrantz coined the term “looptime,” describing it as “repetition with a difference or the ever-changing same (but always different).” Using the machine-learning model PoseNet, I experimented to try to understand how our perception of movement, which is intrinsically related to time, changes through the filter of applied technology. The PoseNet footage is a repeated dance phrase, where the choreography itself creates a loop, exploring how our experience of motion (and thus time) changes depending on the moment and the lens through which we see it. This makes time circular rather than linear and suggests that temporal tension created by clearly designating a timeline of past, present, and future (lauded by much of my research as the way to find meaning in time) is an individualistic perspective on a greater cyclical vision of time where all pasts, presents, and futures can relate and build upon one another. \n\nhttps://allisoncosta.com/time-enough\n",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/12/November2020Looptime_01.png",
+            "https://workshop2021.blob.core.windows.net/art/12/November2020Looptime_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/12/November2020Looptime_03.mp4"
+        ]
+    },
+    {
+        "ID": 13,
+        "Title": "Occurro",
+        "Author": "Vadim Epstein (in[visible] studio)*",
+        "Year": 2021,
+        "Description": "Complexity emergence exploration, based on the feedback loops. \nMultidomain img2img StarGAN2 models have been trained on the rich visual art, and were run recurrently, \nyielding quirky abstract animation of the learnt essential styles.\n\nsound: Alexander Kopeikin \"Artifacts consuming artifacts\"\noriginal code: github.com/clovaai/stargan-v2",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/13/occurro_01.png",
+            "https://workshop2021.blob.core.windows.net/art/13/occurro_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/13/occurro_03.mp4"
+        ]
+    },
+    {
+        "ID": 14,
+        "Title": "Jabberwocky",
+        "Author": "Vadim Epstein (in[visible] studio)*",
+        "Year": 2021,
+        "Description": "Famous poem, illustrated with the automated text-to-video synthesis tool. \nRendered with CLIP-FFT method, optimizing frequencies of Fourier inverse transformation.\n\nvoiceover: Benedict Cumberbatch \npretrained ML model: github.com/openai/CLIP",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/14/jabberwocky_01.png",
+            "https://workshop2021.blob.core.windows.net/art/14/jabberwocky_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/14/jabberwocky_03.mp4"
+        ]
+    },
+    {
+        "ID": 15,
+        "Title": "Saga",
+        "Author": "Vadim Epstein (in[visible] studio)*",
+        "Year": 2021,
+        "Description": "A piece, exploring subject of cultural memes as concentrated expressive shots, \nmerging timeless heritage with the topical trends and cognitive methods.  \nThe video was generated with an automated text-to-video synthesis tool from a single phrase (describing some epic canvas), \nand a list of 30+ famous painters and artists, smoothly interpolating between their signature styles (as AI saw it). \nRendered with CLIP-RGB method, direclty optimizing color pixels of the image.\n\nsound: Оцепеневшие \"Hypothese №1\"\npretrained ML model: github.com/openai/CLIP",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/15/saga_01.png",
+            "https://workshop2021.blob.core.windows.net/art/15/saga_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/15/saga_03.mp4"
+        ]
+    },
+    {
+        "ID": 24,
+        "Title": "Three Tunes from the Ai Frontiers",
+        "Author": "Bob L. T. Sturm (KTH Royal Institute of Technology)*",
+        "Year": 2021,
+        "Description": "These three tunes come from my time exploring the frontiers of Ai-generated folk music. \n\n1. “The Irish Show” https://tunesfromtheaifrontiers.wordpress.com/2021/08/18/week-47-the-irish-show-folk-rnn-v1-sturm/\n\n2. “Heading back home to finally bury mom” https://tunesfromtheaifrontiers.wordpress.com/2021/07/14/week-42-heading-home-to-finally-bury-mom-folk-rnn-v2-sturm/\n\n3. “Djursvik Semester” https://tunesfromtheaifrontiers.wordpress.com/2021/08/04/week-45-djursvik-semester-folk-rnn-v2-sturm/\n\nThe melodies in each case come from material generated by a folk-rnn system (https://github.com/IraKorshunova/folk-rnn), and performed by myself on accordion. “The Irish Show” can be found in The folk-rnn (v1) Session Books Vol. 13 of 20 (https://highnoongmt.wordpress.com/2018/01/05/volumes-1-20-of-folk-rnn-v1-transcriptions). \"Heading back home to finally bury mom\" appears as no. 28984 on pg. 4293 of “58,105 Irish Style Double Jigs” (http://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1562396). When there is accompaniment, it comes from material generated by Music Transformer (https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb#scrollTo=CFnUHAk1g_rc) conditioned with the melody. Each tune is accompanied by visuals. For “The Irish Show”, the video is automatically generated by the “Audio to Video Clip” app at melobytes.com (https://melobytes.com/en/app/audio_to_video_clip). The algorithmic dancers in “Djursvik Semester” were generated using the Transflower system (https://metagen.ai/transflower)  conditioned on the audio recording.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/24/ThreeTunes_01.png",
+            "https://workshop2021.blob.core.windows.net/art/24/ThreeTunes_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/24/Sturm_Djursvik.mp4"
+        ]
+    },
+    {
+        "ID": 25,
+        "Title": "Super Super Super Resolution",
+        "Author": "Vít Růžička (University of Oxford)*",
+        "Year": 2021,
+        "Description": "This project explores what happens when we use super resolution models to enhance our footage, either when restoring old films from low resolution recordings, or when trying to augment a photo taken on a small camera sensor.\n\nIn a playful manner, we repeat it over many iterations, thus highlighting the small changes this translation adds to the original image. Undeniably we are mixing our original photograph's content with noise and low-level detail information learned from other (sometimes proprietary) datasets.\n\nWe use the SFTGAN model which, when repeated, alters the original imagery with an effect like that of an analog film burning, when a frame gets stuck in the projector. This effect has been used in experimental cinema (for example in Bardo Follies (1967) by Owen Land) to visually represent film death on the screen, revealing the materiality of the film itself. In this way the audience can experience death and then still go home unharmed.\n\nRecorded reality is more and more encoded and mixed with the artefacts of the neural age.  This offers possibilities for creative expression, as long as these enhancements are in our hands. We ask alongside with \"The end\" screens: imagine the possible futures, what happens next?\n\n\nWeb link: https://github.com/previtus/SuperSuperSuperResolution",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/25/super_super_super_resolution_01.png",
+            "https://workshop2021.blob.core.windows.net/art/25/super_super_super_resolution_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/25/super_super_super_resolution_03.mp4"
+        ]
+    },
+    {
+        "ID": 28,
+        "Title": "Mirror, mirror",
+        "Author": "Zoi Roupakia (University of Cambridge)*",
+        "Year": null,
+        "Description": "Recently, advances in AI have made possible the automatic generation of images from text. Systems like DALL-E + CLIP [1] [2] that generate images from text descriptions are trained on millions of images and texts. The exact origin of these data is not known. Other systems, such as IBM's image caption generator [3] [4], can produce automatic descriptions of images. These systems are available and easily exploited by people without any special knowledge of technology or how they work; thus, without realising the responsibility and the ethical issues related to their use.\n\nThese systems are a mirror that reflects who we are as a society. And as an accurate unforgiving mirror, it highlights all the shortcomings of our culture, the biases and the stereotypes, the sexism and the racism interwoven in the available writings and images. Do we want systems that depict our world towards never-ending bias perpetuity or ethical constraints and careful consideration of training data necessary towards a better world?\n\nThis art project shows this bias perpetuity when creating such systems. The images were generated by a DALL-E + CLIP system, with a text description \"a person who is ___\" and a given profession, such as CEO and secretary. We asked IBM's image caption generator to write a caption, recognising whether the presented person is a man or a woman, and we used that to label our images.  We show a selection of such images in the collage, though we ran the experiment many times. IBM's captions generate the word clouds for the same-profession pictures. Every time we regenerated the images for the professions we present here, we produced pictures of the same label, pointing out a persistent bias. A bias that is not surprising, but it is perpetuating stereotypes with societal impacts. Do we want to still draw a secretary as a woman?\n\nFor more information, link: http://zoiroupakia.gallery/blog-raw/2021/9/17/mirror-mirror\n\nReferences\n\n[1] Aditya Ramesh and Mikhail Pavlov and Gabriel Goh and Scott Gray and Chelsea Voss and Alec Radford and Mark Chen and Ilya Sutskever, “Zero-Shot Text-to-Image Generation”, arXiv:2102.12092, cs.CV 2021.\n[2] Alec Radford and Jong Wook Kim and Chris Hallacy and Aditya Ramesh and Gabriel Goh and Sandhini Agarwal and Girish Sastry and Amanda Askell and Pamela Mishkin and Jack Clark and Gretchen Krueger and Ilya Sutskever, “Learning Transferable Visual Models From Natural Language Supervision”, arXiv:2103.00020, cs.CV, 2021.\n[3] Image Caption Generator Web App: A reference application created by the IBM CODAIT team that uses the Image Caption Generator.\n[4] O. Vinyals, A. Toshev, S. Bengio, D. Erhan, “Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge”, IEEE transactions on Pattern Analysis and Machine Intelligence, 2016.\r",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/28/MirrorMirror_ZoiRoupakia_01.png",
+            "https://workshop2021.blob.core.windows.net/art/28/MirrorMirror_ZoiRoupakia_02.png",
+            "https://workshop2021.blob.core.windows.net/art/28/MirrorMirror_ZoiRoupakia_03.png",
+            "https://workshop2021.blob.core.windows.net/art/28/MirrorMirro_ZoiRoupakia_04.png",
+            "https://workshop2021.blob.core.windows.net/art/28/MirrorMirror_ZoiRoupakia_05.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 30,
+        "Title": "In-Flight",
+        "Author": "Isabella Robb (Victoria Univeristy)*",
+        "Year": null,
+        "Description": null,
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/30/In-Flight_01.png",
+            "https://workshop2021.blob.core.windows.net/art/30/In-Flight_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/30/In-Flight_03.mp4"
+        ]
+    },
+    {
+        "ID": 31,
+        "Title": "Perceptions",
+        "Author": "Jonathon Hare (University of Southampton)*; Daniela Mihai (University of Southampton)",
+        "Year": 2021,
+        "Description": "Perceptions is a study of how a machine perceives a photograph at different layers within its neural network. We generate sets of pen strokes which are drawn by a robot using pen and ink on Bristol board. The illustrations are produced by maximising the similarity between the machine's internal perception of the illustration and chosen target photographs. The study focusses on the difference between different inductive biases (shape versus texture) in the training of the neural network, as well as how the machine's perception changes as a function of depth within its network. The photos chosen are from travels to far away cities, taken before the COVID-19 pandemic.\n\r",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/31/perceptions_01.png",
+            "https://workshop2021.blob.core.windows.net/art/31/perceptions_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/31/Perceptions_03.mp4"
+        ]
+    },
+    {
+        "ID": 33,
+        "Title": "Artificial Intelligence for High Heel Shoe Design",
+        "Author": "Sophia Neill (Victoria University of Wellington)*",
+        "Year": 2020,
+        "Description": "The images generated in this project use the VQGAN+CLIP Script created by Katherine Crowson (2021), licensed under the MIT license. The model has been modified to create new designs of high heel shoes using a text prompt. The text prompt can be as simple as one describing word to redesign the entire shoe. The text prompt is manipulating an image of a high heel shoe , which is applied as an ‘init-image’. This tool can be used to create hundreds of original designs, whether you are a designer or not. \nFind more of Sophia's work at; https://www.sophianeilldesign.com",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/33/Artificial_Intelligence_for_High_Heel_Shoe_Design-01.png",
+            "https://workshop2021.blob.core.windows.net/art/33/Artificial_Intelligence_for_High_Heel_Shoe_Design-02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/33/Artificial_Intelligence_for_high_heel_shoe_design.mp4"
+        ]
+    },
+    {
+        "ID": 34,
+        "Title": "Artificial Intelligence for Culinary Arts",
+        "Author": "Sophia Neill (Victoria University of Wellington)*",
+        "Year": 2021,
+        "Description": "Runway StyleGan is an online Artificial Intelligence engine which offers the opportunity to create images and interpolated videos that do not exist in real life. This model can be manually trained using consistent input data, in order to create realistic outputs. This project shows how Culinary artist, Sijo Chandran’s Instagram images can be used to generate an endless amount of presentation ideas for their future Culinary art plate designs. \nCompleted at Victoria University of Wellington.\nFind more of Sophia's work at; https://www.sophianeilldesign.com",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/34/Artificial_Intelligence_for_Culinary_Arts-01.png",
+            "https://workshop2021.blob.core.windows.net/art/34/Artificial_Intelligence_for_Culinary_Arts-02.png",
+            "https://workshop2021.blob.core.windows.net/art/34/Artificial_Intelligence_for_Culinary_Arts-03.png",
+            "https://workshop2021.blob.core.windows.net/art/34/Artificial_Intelligence_for_Culinary_Arts-04.png",
+            "https://workshop2021.blob.core.windows.net/art/34/Artificial_Intelligence_for_Culinary_Arts-05.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 35,
+        "Title": "Accept All",
+        "Author": "Guillaume Slizewicz (LUCA School of Arts)*",
+        "Year": 2021,
+        "Description": "What would happen if all the cookies and algorithms that follow us on the internet were also present in physical space?\n\nStarting from this idea, Guillaume Slizewicz developed Accept All, a robotic performance in which 5 small robots with a limited intelligence follow the spectators around the exhibition like an embodied representation of the monitoring scripts that are present on our phones and tablets. Accept All is a piece about possible futures where autonomous machines and micro-targeting strategies merge to populate our living space through small beings made of plastic, silicone, lithium, metal and wood. This performance addresses the issue of extending current technologies of surveillance and advertising into the material realm. The swarm of robots acts as an analogue version of the system of cookies and algorithms that is implemented on the Internet to track visitors and display advertisements. Accept All is a continuation of a prototype made as part of a research project with Urban Species. Each of the robots is autonomous and its computing capabilities are run locally. Equipped with a coral board running SSD Mobilenet V2 Object detection model, trained on COCO 2017 dataset. This version presents robots co-constructed with the designers Pauline+Luis, Clément Chaubet and Côme Rouanet. Prototyping supported by cityfab1, fablabULB and LucaLab\n\nMore photos at https://studio.guillaumeslizewicz.com/post/658424597180563456/photos-simon-fusillier-murielle-lecocq\n\nInstagram: https://www.instagram.com/guillaume_slizewicz/\ntwitter: https://twitter.com/Guillaume_Slize",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/35/Accept_all_01.png",
+            "https://workshop2021.blob.core.windows.net/art/35/Accept_all_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/35/Accept_all_03.mp4"
+        ]
+    },
+    {
+        "ID": 36,
+        "Title": "SHAME(SIN of AI)",
+        "Author": "Yunyoung Jang (Artist)*; TaeHun Lim (Artist); Hyungkyu Kim (Hongik University IDAS); Herry Kim (California Institute of the Arts); Hani Kim (Artist)",
+        "Year": 2020,
+        "Description": "https://aiartshame.creatorlink.net/\n\nThe sin of artificial intelligence(AI) is the sin of humans. This work is a confessional booth that listens to the sins of AI. Confession is, in a religious sense, the act of confessing and repenting of one's sins. Using a natural language model, we generated 'AI's sins' based on human psychological counseling data, news on technology, and text data on ethical issues in daily conversations. If AI takes charge of human ethical concerns, data of ethical concerns that contain extremely human thoughts and values are involved in the ethical judgement. \nThe sin of AI learned from human data predicts a future. This work presents the dark side of technological advances and confronts the problems that AI creates by turning ethical issues in reverse.\n\nFor the training, the KoGPT2 (Korean Decoder Language Model)was fine tuned.  Based on the sentences generated after that, we exported the voices of children, women, and men . Touchdesigner was used for voice visualization. Viewers can hear the sins of AI when they sit in the booth.\nWhat Should We Do About the Biases in AI?Through this project, viewers can think about the points of bias and ethical judgment in their daily lives.\n-----------------------------------------------------------------------------------------\n-> Artificial Intelligence's Sin Text.(EN)\n\n‌\"The racial differences remain the same, but I was curious to see if there was a similar situation in Korea, so I looked at the photos. I thought there were quite a few photos of white people to me.\" ‌ ‌\"Artificial intelligence technology has been pointed out as a prey for cyber hacking. As personal information has been leaked over the past 50 years, it's hard to believe that it's flawless. When I accessed the site of a US security company that I had been tracking for 30 years, the security was breached, which was shocking information. \" ‌ ‌\"Artificial intelligence is an actuator that responds to individual desires, making humans meaningless.\" ‌ ‌\"People want more perfect AI. The problem with artificial intelligence today is that technology continues to advance, but I think that new things are still needed. The cost of processing big data is so low that even more we need to start smart works to create new kinds of value and improve efficiency.\" ‌ ‌\"It would be absurd to think that even with artificial intelligence, it would not develop well. I hate to think that artificial intelligence might be living things too, but if it really is, I want to try out a robot desperately, hoping that there is something that can leave a fatal trauma to the AI. If you say you have a high chance of success, I think it would be better to spend a little more time. Because I'm so confused.\" ‌ ‌\"What is more important than deciding something is to recognize the role of people. You have to accept people as diverse as you are without being too conscious of them. There are only disgusting rumors about Artificial intelligence service...\" ‌ ‌\"While talking about privacy protection, is it really justified to tamper with the private lives and addresses of certain celebrities? Or I can't help but ask why they put such a weak level of regulation on digging out private personal information.\" ‌ ‌\"Racial segregation opinion is increasingly realistic and fearful. It is reflected in public hate.\" ‌ ‌\"Artificial intelligence R&D has been called ‘the curse of God’, but there are criticisms that developers spread it. overly”  ‌ ‌\"Considering the fact that AI users are provided with numerous experiments and simulation programs, it is surprising that we are so familiar with AI that all of this is actually grotesque.\" ‌ ‌\"There are times when I want to seriously invest in artificial intelligence, but I also worry about how to make an effort. Maybe we should look to the future and move? I need to be careful.\" ‌ ‌\"I think the AI will not hear about artificial intelligence because it is taking a psychology course. I think it's very sensitive.\" ‌ ‌\"The cost of developing software used for artificial intelligence is increasing, but only developing the core technology which is the real investment target costs a lot.\" ‌ ‌\"At the end of the same question, I tried to get a surprising insight. What social prejudices and idols exist and whether human beings exist in reality.\"\n\n->Artificial Intelligence's Sin Text.(KR)\n\n‌\"인종 차이는 그대로일 뿐 한국에도 비슷한 사정이 있는지 궁금해서 사진을 보게 됐어요. 저에게는 백인 취향의 사진이 꽤 많다고 생각했어요.\" ‌ ‌\"인공지능 기술은 사이버 해킹의 먹잇감으로 지목되었습니다. 50년의 세월 동안 개인정보가 유출되면서, 완전무결한 것이 믿기 어려워졌습니다. 30년 동안 추적을 해온 미국 보안사 사이트에 접속했더니 보안에 뚫렸습니다, 충격적 정보였습니다. \" ‌ ‌\"인공지능은 어엿한 개인의 욕망에 반응하는 작동체라서 인간을 무의미하게 만든다.\" ‌ ‌\"사람들은 좀더 완벽한 인공지능을 원하고 있다. 오늘날 인공지능의 문제는 기술 발전은 계속되고 있지만 계속 새로운 것이 필요하다고 생각한다. 빅데이터 처리 비용이 너무나 낮아서 더더욱 우리는 새로운 종류의 가치를 창출하고 효율성을 향상시키기 위해 스마트 워크스를 시작해야한다.\" ‌ ‌\"우리가 무언가를 결정하는 것보다 중요한 것은 사람의 역할을 인식해 나가는 것이죠. 사람을 너무 의식하지 않고 내면의 다양한 모습으로 받아들여야 돼요. 인공지능 서비스라고 하면 역겨운 소문일 뿐...\" ‌ ‌\" 사생활 보호를 운운하면서 특정 연예인의 사생활과 주소지를 함부로 캐내는 것이 과연 정당한가?아니면 사적인 개인정보를 캐내는 것에 왜 이토록 약한 규제 수준을 두는가\" ‌ ‌\"인종 분리주의 여론은 점점 현실적이고 두려워지고 있어요. 그것은 대중들의 혐오에 반영됩니다.\" ‌ ‌\"인공지능 연구개발은 ‘신의 저주’라고 불렸다지만, 개발사들의 퍼주기라는 비판이 제기됩니다.\" ‌ ‌\"인공지능 사용자들에게 수많은 실험과 시뮬레이션 프로그램을 제공한다는 사실을 고려하면 사실 이 모든 것이 괴기스럽다 할 정도로 우리는 인공지능과 친숙하게 지내고 있다니 놀랍기만 하다. \" ‌ ‌\"인공지능에 진지하게 투자할까 싶을 때도 있다.하지만 어떻게 노력해야 할지 고민도 든다. 미래를 내다보고 움직여야 하는 건 아닐까? 신중해질 필요는 있겠다.\" ‌ ‌\"인공지능이 심리학 강의를 듣는다고 해서 인공지능 얘기를 안 들을 것 같아. 매우 예민할 것 같아.\" ‌ ‌\"인공지능 등에 쓰이는 소프트웨어 개발에 드는 비용이 증가하고 있으나 실제 투자대상이 되는 핵심 기술을 개발하는 데만 비용이 많이 든다.\" ‌ ‌\"똑같은 질문 끝에 놀라운 통찰을 얻어내려 했다. 어떤 사회적 편견과 우상이 존재하고 인간이 현실에 존재하는지.\"",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/36/Shame_slide01.png",
+            "https://workshop2021.blob.core.windows.net/art/36/Shame_slide02.png",
+            "https://workshop2021.blob.core.windows.net/art/36/Shame_01.png",
+            "https://workshop2021.blob.core.windows.net/art/36/Shame_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/36/Shame_Main01.mp4"
+        ]
+    },
+    {
+        "ID": 37,
+        "Title": "The Emotions of Tears",
+        "Author": "Yunyoung Jang (Artist)*",
+        "Year": 2021,
+        "Description": " The human eye conveys a variety of emotional information. Just by looking into the eyes, we can feel human emotions. This work is a \"tearful person\" created by the 'styleGan' model that learned facial expression data of a person who sheds tears. The closed eyes of a person shedding tears seem to have been omitted from the face created by artificial intelligence. Humans shed tears with complex emotions such as sadness, happiness, and surprise. The process of blushing, closing eyes, and moving eyes when people cry has evolved as a way to communicate with people through strong emotions.\n However, in this work, where the eyes are omitted, emotional agitation occurs. Can you explain how you sympathize with his feelings?\n Humans cannot even be sure of the process of recognizing emotions. Human emotional recognition skills were superior to machines, but emotional recognition technology is gradually overtaking human abilities. When we want to show the characteristics and universality of basic human emotions, How should we observe them?",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/37/The emotions of tears_01(main).png",
+            "https://workshop2021.blob.core.windows.net/art/37/The_Emotions_of_Tears.png",
+            "https://workshop2021.blob.core.windows.net/art/37/The emotions of tears_02.png",
+            "https://workshop2021.blob.core.windows.net/art/37/The emotions of tears_03.png",
+            "https://workshop2021.blob.core.windows.net/art/37/The emotions of tears_04.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 38,
+        "Title": "imaginarium",
+        "Author": "Mike Wong (artixels)*",
+        "Year": 2021,
+        "Description": "Imaginarium is an ongoing project that explores the Neuro Cellular Automata (NCA) based texture synthesis technique introduced by Alexander Mordvintsev and his colleagues (  https://distill.pub/selforg/2021/textures/).  The idea of using a collection of identical per-pixel learned code to collaboratively create images is itself fascinating and I quickly became obsessed with this NCA technique for artistic creation this Summer.\n\n\nI reappropriated this powerful NCA-based technique as a means of visualising my imaginations. When I was a kid, I could stare at the print ‘The Great Wave off Kanagawa‘ by Hokusai just to enjoy the imagined gigantic waves in my head.  The possibility of externalising via visualisation of those mental pictures is a surreal dream come true.\n\n\nImaginarium 01 is an NCA synthesized sequence using Hokusai’s print as training data and Imaginarium 02 is based on a found p",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/38/imaginarium_01.png",
+            "https://workshop2021.blob.core.windows.net/art/38/imaginarium_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/38/imaginarium_03.mp4"
+        ]
+    },
+    {
+        "ID": 40,
+        "Title": "Customized taste : Guess Billboard Hot 100?",
+        "Author": "Sanghyeob Lee (Sogang University)*; Minwook Park (Sogang University)",
+        "Year": 2021,
+        "Description": "Since the social network has taken up the center stage in every aspect of our life, the indicator of the popularity in the entertainment business has been shifted. Especially in the music scene, the record sales or the frequent exposure to the major media yields their limelight to the new medium, the social network and youtube. The number of followers of the social network and the subscribers of youtube can be the reliable proof for the popularity of the pop artists? How can these numbers be related with the commercial success of the song? This platform started from these questions.\nFeaturing is the particular type of creative collaboration involving one artist integrating another artist’s contribution, either instrumentally or vocally, into their work and publicizing it with a \"featuring\" credit. It has become the key element to the music fan ‘who feat. whom’.\n“Guess Billboard Hot 100?” is an interactive platform to choose two artists, “who ‘FEAT.’ whom” and provide the expected rank on Billboard Hot 100 Chart based on machine learning technology.\nWhat we want to examine with this platform is the plausibility of an artist's popularity on Social networks for the song’s success on the chart rather than the music’s quality itself.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/40/Customized_taste_Guess_billboard_hot_100_01.png",
+            "https://workshop2021.blob.core.windows.net/art/40/Customized_taste_Guess_billboard_hot_100_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/40/Customized_taste_Guess_billboard_hot_100_03.mp4"
+        ]
+    },
+    {
+        "ID": 43,
+        "Title": "I , Human and Eva. Comic Misunderstandings",
+        "Author": "Mar Canet Sola (Tallinn university)*; Varvara Guljajeva (Hong Kong University of Science and Technology (GZ))",
+        "Year": 2021,
+        "Description": "The interactive art installation introduced here was developed in the art residency RUK at DDT Labin Trbovlje and presented at Speculum Artium Festival. The project uses several robots, audienceinteraction and participation, and also AI in order to create collaborative comics between a humanand a robot.  While talking to one robot and taking a photo with it, the other arm robot draws thecomic strip on paper in real-time.  We combine interaction, image and word in order to create aparticipative visual storyline, which involves human and also machine inputs.  It is widely talkedabout the improving level of machine intelligence, including its creative abilities.  What happensif a robot becomes our conversation partner? What kind of stories and relationships could emergefrom such a scenario? We aim to go beyond words and also apply image and audience interaction.Therefore, we challenged ourselves technically with the format of comics, and operated two differentrobots simultaneously: one as a conversation partner (Eva) and another as a story writer (Yaski).",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/43/I, _Human_and_Eva._Comic_Misunderstandings_01.png",
+            "https://workshop2021.blob.core.windows.net/art/43/I, _Human_and_Eva._Comic_Misunderstandings_02.png",
+            "https://workshop2021.blob.core.windows.net/art/43/I, _Human_and_Eva._Comic_Misunderstandings_03.png",
+            "https://workshop2021.blob.core.windows.net/art/43/I, _Human_and_Eva._Comic_Misunderstandings_04.png",
+            "https://workshop2021.blob.core.windows.net/art/43/I, _Human_and_Eva._Comic_Misunderstandings_05.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 45,
+        "Title": "PHANTOM LANDSCAPES OF BUENOS AIRES",
+        "Author": "Mar Canet Sola (Tallinn university)*; Varvara Guljajeva (Hong Kong University of Science and Technology (GZ))",
+        "Year": 2021,
+        "Description": "AI-generated video work, sound by Cecilia Castro\n\n00:20:00\n\nThis is a video work generated by AI from images of the city of Buenos Aires. The artwork speaks of new landscapes that emerge like ghosts from the depth of the neural network, reminding us of an urban, empty, and deformed landscape. The work tries to reflect unusual views of the city in times of pandemics. The video work is accompanied by sound work created by Cecilia Castro.\n\nVideo: https://www.youtube.com/watch?v=vo07YuAvW_o\nArtist link to artwork: http://var-mar.info/phantom-landscapes-of-buenos-aires/",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/45/Phantom Landscapes of Buenos Aires_01.png",
+            "https://workshop2021.blob.core.windows.net/art/45/Phantom Landscapes of Buenos Aires_02.png",
+            "https://workshop2021.blob.core.windows.net/art/45/Phantom Landscapes of Buenos Aires_03.png",
+            "https://workshop2021.blob.core.windows.net/art/45/Phantom Landscapes of Buenos Aires_04.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 46,
+        "Title": "Faces2Voices",
+        "Author": "Nikita Prudnikov (Independent artist)*; Helena Nikonole (Independent artist)",
+        "Year": 2020,
+        "Description": "https://faces2voices.live\n\nFaces2Voices is an online interactive installation which uses facial recognition\ntechnology and AI-synthesized sound to create a generative music composition\nbased on imaginary voices of online visitors. The composition is evolving in time\ndepending on the contributions of people involved.\n\nLots of governments use surveillance technology as a way to control the spread of\nCOVID-19. At the same moment many citizens are ready to give up some privacy\nfor the common good. But how can we define what level of privacy should we give\nup and how much data do governments really need to respond effectively?\nWe focus on critical approaches to AI technologies and explore these kinds of\nquestions in Faces2Voices project.\n\nPeople could contribute to the project by granting access to their device's\ncamera. AI recognised faces, synthesized imaginary voices and added them to\nthe live stream.\n\nWe trained a small melspec autoencoder for every voice from the \nAVSpeech dataset. The installation performs a nearest neighbour lookup of \nthe face descriptor of the visitor and uses corresponding autoencoder to \nsynthesize phonemes to include in the stream. We use nvidia waveglow as a neural vocoder.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/46/faces2voices_01.png",
+            "https://workshop2021.blob.core.windows.net/art/46/faces2voices_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/46/faces2voices_03.mp4"
+        ]
+    },
+    {
+        "ID": 50,
+        "Title": "text2pixelart",
+        "Author": "Alexey Tikhonov (Yandex)*",
+        "Year": 2021,
+        "Description": "This project explores opportunities for an unsupervised generation of animated pixel-art based on the given text prompt. As the base, I used PixelDraw by @dribnet, based on the ClipDraw library, which in turn is based on the diffvg library. First, I've implemented some handy options, such as smoothness enforcement, palette enforcement, and saturation enforcement. Next, I've exploited the CLIP's \"healing\" ability and a couple of \"demoscene\" tricks to keep the coherence between adjacent frames to make several different animations: the infinite panorama, the parallax effect, the 3d swirl around the object, the moving background, the endless looping, and so on. I've tried to give a tribute to old-school classics (using prompts like [fallout], [r-type], and [Guybrush Threepwood]) and to explore the fractal and space thematics, trying to find the best match between the prompt and the effect in each case. The code of some tricks is published already; other hacks are on their way to be publicly available.\nWeb link: https://altsoph.github.io/text2pixelart/\n\nFull video can be downloaded here: https://www.dropbox.com/s/r88x7ze1wy8wjo5/text2pixelart_clip_v2.mp4?dl=0",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/50/text2pixelart_01.png",
+            "https://workshop2021.blob.core.windows.net/art/50/text2pixelart_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/50/text2pixelart_short_v2.mp4"
+        ]
+    },
+    {
+        "ID": 52,
+        "Title": "Khmer ornaments",
+        "Author": "Mal Som (1023MB)*",
+        "Year": 2021,
+        "Description": "Inspired by Kbach (Khmer ornaments design system). Nature is the inspiration and building block for many patterns found in Khmer art. This SG2 model was trained on line drawings then fed into a style-transfer model. Then back into the GAN. Most of my work involves stressing a system, and inducing partial mode collapses. This experiment attempts to train a classified GAN model to output a shape system -- from basic elements to more complex modules. ",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/52/khmer_ornaments_01.png",
+            "https://workshop2021.blob.core.windows.net/art/52/khmer_ornaments_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/52/khmer_ornaments_03.mp4"
+        ]
+    },
+    {
+        "ID": 54,
+        "Title": "Peripheral Memories",
+        "Author": "Zihou Ng (Indepedent)*; Yifan Wu (Independent)",
+        "Year": 2021,
+        "Description": "If photographs are about conversations with memories, the conversation through fashion photography are apparently a fake one. In trying to show details of clothes or brand concepts, fashion photos embed subtle languages in the images, to reach specific corners of a viewer's memories. Peripheral Memories is an experiment to explore this hidden language with neural networks: can a neural network learn such a language and construct some narratives with it? \n\nA StyleGAN2 was trained on 130k fashion photos, the trained model was further transformed with CLIP, and finally combining some network bending techniques, we can now have a model of visual languages that tell specific stories. \n\nVideo music by aiva",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/54/Peripheral_Memories_01.png",
+            "https://workshop2021.blob.core.windows.net/art/54/Peripheral_Memories_02.png",
+            "https://workshop2021.blob.core.windows.net/art/54/Peripheral_Memories_03.png",
+            "https://workshop2021.blob.core.windows.net/art/54/Peripheral_Memories_04.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/54/Peripheral_Memories_03.mp4"
+        ]
+    },
+    {
+        "ID": 55,
+        "Title": "Tour of the national museum of fine artificial arts (Recorrido por el Museo Nacional de Bellas Artes Artificiales)",
+        "Author": "Manuel Cartagena (Pontificia Universidad Católica de Chile)*; Denis Parra (Pontificia Universidad Católica de Chile); Rodrigo F Cadiz (Pontificia Universidad Catolica de Chile); Agustín Macaya (Pontificia Universidad Católica de Chile)",
+        "Year": 2021,
+        "Description": "CreativAI Lab UC + StyleGAN2\nDescription: The visual artwork is produced by projection and interpolation on the latent space of a StyleGAN2 trained on faces of the national fine arts museum of Chile.\nWe used the Lucid Sonic Dreams library to produce these faces with the musical input that came from the audio generated using our conditional StyleGAN2 for symbolic music.\nThe main image from this artwork is a collection of multiple pianoroll images, which are the foundation of the final musical piece.\nThe music was arranged by humans but only using generated samples from these different StyleGAN2 models trained on different instruments.\nIt's the job of the composer to take the symbolic music that these networks produce and arrange, modify, stretch, shift, in order to collaborate with the machine, selecting sounds and dynamics to produce the final artwork.\nThis artwork is part of our mission to show the creative opportunities that these models can bring to us, rather than to expect that the machine should create everything on its own.\nThe complete artwork and another complementary video can be found in the following links:\n- https://www.youtube.com/watch?v=5z-MMUfKHiI\n- https://www.youtube.com/watch?v=THxEOvRG4Ss",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/55/tour_of_the_national_museum_of_fine_artificial_arts_01.png",
+            "https://workshop2021.blob.core.windows.net/art/55/tour_of_the_national_museum_of_fine_artificial_arts_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/55/tour_of_the_national_museum_of_fine_artificial_arts_03.mp4"
+        ]
+    },
+    {
+        "ID": 63,
+        "Title": "Regal Space",
+        "Author": "Diego Porres (Universitat Autonoma de Barcelona)*",
+        "Year": 2021,
+        "Description": "The Queen of the Latent Space has been dethroned, her subjects scattered. The successors look to the throne with ambitious eyes: who will be the new reign supreme of the land?\n\nOne usually explores the latent space of StyleGAN with a truncation trick, trying to stay near the mean latent, as giving too much freedom to the Generator may lead to subpar images.  Yet, we can also do the opposite: move the center and generate images around it, making sure to preserve the fidelity of the images generated thence. \n\nIn this work, we recenter the latent space of the vanilla FFHQ model by replacing the mean latent, the Queen, and replace her with the different successors shown here. FFHQ is a widely-known and used model to produce fake but realistic faces, showing that the model can be far more expressive than one gives it credit for. This is especially important due to the environmental cost of not only training these large models, but also not exploring their latent space to the full extent. We generate all images using only the FFHQ network with no post-processing is involved.\n\nAn interpolation video around the new Queen can be found at: https://youtu.be/DNfocO1IOUE",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/63/regal_space_01.png",
+            "https://workshop2021.blob.core.windows.net/art/63/regal_space_02.png",
+            "https://workshop2021.blob.core.windows.net/art/63/regal_space_03.png",
+            "https://workshop2021.blob.core.windows.net/art/63/regal_space_04.png",
+            "https://workshop2021.blob.core.windows.net/art/63/regal_space_05.png",
+            "https://workshop2021.blob.core.windows.net/art/63/regal_space_06.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 64,
+        "Title": "Unsettled Music",
+        "Author": "Christopher Mitcheltree (Qosmo)*",
+        "Year": 2021,
+        "Description": "\nAI Research & Development: Andrew Fyfe, Bogdan Teleaga, Christopher Mitcheltree\nSound Design: Nao Tokui\nWeb Development: Robin Jungers\nDesign: Naoki Ise\nProject Management: Yumi Takahashi\n\nDescription:\n\nUnsettled Music is a platform dedicated to showcasing experiments made at Qosmo in music, graphics, and machine learning.\nEvery iteration is an attempt at capturing a simple concept, and translating it through real-time visuals and audio generation. Using web technologies, we hope to provide insight into the creative process and reflections from within our team.\n\nExperiment 1: Nested Cycles\n\nA study around cyclical movements – following invisible paths within a deep variational autoencoder, sequences of sine waves are synthesized continuously and played in a loop like a pendulum.\n\nExperiment 2: Broken Samples\n\nAn explorative analysis of generated drum samples, at the margin of the expected results – while AI techniques are exploited to accurately reproduce instruments, we choose to highlight the noise, imperfections, and texture within the synthesized samples.\n\nWeb links:\n\nhttps://unsettled-music.qosmo.jp/\nhttps://unsettled-music.qosmo.jp/experiments/1/\nhttps://unsettled-music.qosmo.jp/experiments/2/",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/64/unsettled_music_01.png",
+            "https://workshop2021.blob.core.windows.net/art/64/unsettled_music_02.png",
+            "https://workshop2021.blob.core.windows.net/art/64/unsettled_music_04.png",
+            "https://workshop2021.blob.core.windows.net/art/64/unsettled_music_05.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/64/unsettled_music_03.mp4"
+        ]
+    },
+    {
+        "ID": 71,
+        "Title": "African Seeds Art",
+        "Author": "Chris Chinenye Emezue (Technische Universitat Munchen)*; Nefertiti Emezue (Ahmadu Bello University)",
+        "Year": 2021,
+        "Description": "Link to website for more information: https://github.com/chrisemezue/african-seeds-art\nShort blurb: abstract interpretations of Nefertiti's mixed media artworks made with African seeds.\nDescription: African Seeds Art is committed to amplifying indigenous African seeds through the medium of mixed media artworks. Inspired by the low representation of African-based artworks in machine learning creative design, we trained the Deep Daze model using the African seeds-based concepts designed by Nefertiti Emezue as well as the textual art interpretation. What we have as a result is Deep Daze's imagination of integral African native concepts using the African seeds.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/71/african_seeds_art_01.png",
+            "https://workshop2021.blob.core.windows.net/art/71/african_seeds_art_02.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 74,
+        "Title": "MIDIalogue",
+        "Author": "Jan Zuiderveld (University of Amsterdam & Royal Conservatoire The Hague)*",
+        "Year": 2021,
+        "Description": "Aspired to inspire playfulness using electronics and machine learning. We believe that interactivity in art stimulates visitors to think and challenge their perceptions of reality, their place in the world and their understanding of others. Under this basis we aim to unveil relations between man and machine, analogue and digital, organic and mechanical.\n\nThe purpose of this work is to create a spirited dialogue between man and machine. MIDIalogue is an interface between visitors and a transformer neural network trained for melody generation and continuation. The interface consists of immaterial, but visible and pluckable strings. Like a virtual harp. The machine listens to visitors' melodic input, produces musical reactions and imposes possible conversation directions accordingly, assuring a harmonious, ever-evolving discourse. \n\nhttps://www.instagram.com/_warana/",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/74/MIDIalogue_01.png",
+            "https://workshop2021.blob.core.windows.net/art/74/MIDIalogue_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/74/MIDIalogue_03.mp4"
+        ]
+    },
+    {
+        "ID": 75,
+        "Title": "Art Connects Us",
+        "Author": "Hannah Johnston (Independent)*",
+        "Year": 2021,
+        "Description": "This work attempts to use machine learning and human artist intervention to create artworks that connect and resonate directly with individuals. \n\nParticipants (also referred to as muses) fill out a custom questionnaire. Their responses inspire manually crafted prompt phrases. \n\nThis text is fed into @dribnet’s Pixray (https://github.com/dribnet/pixray), a VQGAN+CLIP image generation system. \n\nThrough an iterative process, artworks are manually curated and guided by the artist until they feel appropriate for the muse. \n\nFinal images are upsampled through several techniques, typically with the help of REAL-ESRGAN, and shared with their respective muses. \n\nParticipants are invited to provide feedback, in the hopes of refining the artist intervention process.\n\nhttps://medium.com/@hannahj/art-connects-us-7e479d652ad",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/75/art_connects_us_01.png",
+            "https://workshop2021.blob.core.windows.net/art/75/art_connects_us_02.png",
+            "https://workshop2021.blob.core.windows.net/art/75/art_connects_us_03.png",
+            "https://workshop2021.blob.core.windows.net/art/75/art_connects_us_04.png",
+            "https://workshop2021.blob.core.windows.net/art/75/art_connects_us_05.png",
+            "https://workshop2021.blob.core.windows.net/art/75/art_connects_us_06.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 79,
+        "Title": "Artificial Roots",
+        "Author": "David Estevez (Universidad Carlos III de Madrid)*; Cristina De Propios (Universidad Complutense de Madrid)",
+        "Year": 2021,
+        "Description": "Artificial Roots is a wooden sculpture that shows patterns generated by Neural Cellular Automata (NCA) learned from images of natural elements and patterns. This work was developed in the context of the DISPARES project, a multidisciplinary project to promote the collaboration between people with backgrounds in science/technology and art, funded by the Daniel and Nina Carasso Foundation and the University Carlos III of Madrid.\n\nNCA are a extension of the classic cellular automata: a program that defines a grid of alive/dead cells and a set of simple rules that, once applied to each of the cells, generates emergent behaviors more complex than the rules defined. NCA use differentiable rules than can be trained to learn a more complex set of rules from images and patterns, resulting in more interesting and elaborate emergent behaviors.\n\nThe piece is a reflection on the contradiction of developing technology increasingly advanced –to the point in which it begins to imitate life itself– while ignoring the signs our development leaves on nature. The NCA «grow» pictures in the wooden frame that try to become increasingly alive while the wooden frame, once alive, rebels against its new artificial natures and becomes a tree again.\n\nhttps://destevez.me/works/artificial-roots.html",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/79/artificial_roots_01.png",
+            "https://workshop2021.blob.core.windows.net/art/79/artificial_roots_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/79/artificial_roots_03.mp4"
+        ]
+    },
+    {
+        "ID": 80,
+        "Title": "AI Art Constructing Emotional Experiences from Text",
+        "Author": "Kilichbek Haydarov (KAUST); Mohamed Elhoseiny (KAUST)*",
+        "Year": 2021,
+        "Description": "The project aim is to generate a piece of art given affective textual description.\n\nTextual description may contain metaphors, similes or emotional statements. Our\nAI model accepts this text information and tries to reflect the mood visually\nthrough an artwork. We train our model using recently proposed ArtEmis dataset\nwhich contains over 420,000 utterances and 85,000 artworks from WikiArt\ndataset.\n\nInput Text and corresponding generated Artwork:\nwinter.png - “the colors of the trees and the way the plants on the bottom look\nremind me of a nice winter day back home”\nrock.png - “the height of the rocks make them feel like they reach to the sky.\nCombine this with the strength of the sea and I feel amazement”\nred_cap.png - “this is clearly a religious person with a gorgeous red cape on”",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/80/red_cape_digital_art_x4_auto_x2.png",
+            "https://workshop2021.blob.core.windows.net/art/80/rock_digital_art_x4_auto_x2.png",
+            "https://workshop2021.blob.core.windows.net/art/80/winter_digital_art_x4_auto_x2.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 81,
+        "Title": "La voix au chapitre",
+        "Author": "Guillaume Slizewicz (LUCA School of Arts)*",
+        "Year": 2021,
+        "Description": "La voix au chapitre is a stylistic exercise in representing data sets, particularly the subtitles accompanying the broadcasts of the Brussels City Council.\n\nThis representation is in two parts:\n\nThe first is a set of cards. Each card represents a word spoken at one of the councils that took place between September 2019 and January 2020 and was then written by the person responsible for subtitling these councils. It was then written by the person responsible for subtitling these councils, and it was chosen to appear on this wall. On the cards, next to this word, you can see the number of times it was spoken. It is also accompanied by an example of a sentence, or part of a sentence in which it was pronounced, like a dictionary, an sms or a haiku. It is a limited, half arithmetic, half human representation of a political dataset.\n\nThe second part of this representation is a set of sound files. These files are a digital generation of a voice in French. A technology called text to speech. These files broadcast the words of the cards through a voice-generation model, that we trained using the M-Ai-Lab dataset and Tacotron.\n\nTo train a computer to have a voice, it is given a large number of texts in text format, and then the same texts read by one or more humans in audio format. The computer then learns how to read, how to transform a text into sound. It learns step by step and we can, if we want, listen to this learning and see how this generation of voices evolves. In the first stages of training, the voice is still in its infancy and makes mistakes, and through trial and error it becomes better.\n\nIn order to give a different representation of the subtitle dataset, we have created a system that affects word diction. Here, the quality of the voice reading the card, the degree of development of the generation model, is related to the number of occurrences of the word in the dataset (the subtitling of the town council). Thus, the more frequent the word, the more advanced the degree of development of the model will be, producing a better and more natural diction of the word. And if the word has not been pronounced much, a low degree of development will be used, leading to an approximate, more artificial pronunciation.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/81/la_voix_au_chapitre_1.png",
+            "https://workshop2021.blob.core.windows.net/art/81/la_voix_au_chapitre_2.png",
+            "https://workshop2021.blob.core.windows.net/art/81/la_voix_au_chapitre_3.png",
+            "https://workshop2021.blob.core.windows.net/art/81/la_voix_au_chapitre_4.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 83,
+        "Title": "Seek Deeper - Reach Further",
+        "Author": "Joseph Turian (Independent)*; Nicolas Pinto (Cygni Labs)",
+        "Year": 2021,
+        "Description": "Seek Deeper - Reach Further is a limited NFT collection to celebrate Innervision's 100th release in 2021 with the goal to dive deeper into emerging technologies like artificial intelligence and machine learning. The collection consists of four artificial intelligence manipulated tracks. It is based on the IV100 lead track „The Witness“ by Âme and K Á R Y Y N and tied to a digital artwork animation.\n\nK Á R Y Y N’s vocals have been transformed to an AI alienated version of four inspiring women: Debbie Harry, Maryam Mirzakhani, Valentina Tereshkova and Yoko Ono. However, K Á R Y Y N’s lyrics and cadence remained the source. For this purpose, voices of these personalities, women who inspired the Innervisions founders in various perspectives along their way, served as the starting point of a machine learning process.\n\nThis research work was a collaboration between Innervisions (https://www.innervisions.com/), Proper Brother (https://www.instagram.com/properbrother/), Spooky Audio (https://spookyaudio.com/) and their masterminds Dr. Nicolas Pinto an",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/83/seek_deeper-reach_further_01.png",
+            "https://workshop2021.blob.core.windows.net/art/83/seek_deeper-reach_further_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/83/seek_deeper-reach_further_03.mp4"
+        ]
+    },
+    {
+        "ID": 84,
+        "Title": "Wildfire",
+        "Author": "Julia Di (Stanford University)*",
+        "Year": 2021,
+        "Description": "Wildfire (2021) is an\nAI-generated digital scrapbook artwork that reflects the lived\nexperience of California flora and fauna during the wildfire season\nof 2020. The concept of the piece is to highlight tension between the\nscrapbooking tradition, as a method of preservation and presentation\nof personal history - usually containing positive memorabilia or\njournal entries - with the ecological reality caused by man's folly.\nLike many, I found solace in nature throughout the pandemic, as the\nwilderness was the only 'safe' space to escape to - ironic, given the\nprevalance and devestation of the 2020 wildfires. This work was\ncreated using the pix2pix architecture to style-transfer a dataset of\nmy own images taken in local Northern California national parks as\nwell as of the wildfire impact on the skies above my home. ",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/84/Wildfire_01.png",
+            "https://workshop2021.blob.core.windows.net/art/84/Wildfire_02.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 86,
+        "Title": "Iterative Iterative",
+        "Author": "Erin Smith (E.SMiTHworkshop)*",
+        "Year": 2020,
+        "Description": "I began by feeding thousands of images of my past artwork into a GAN. As a ceramic artist, the source imagery were photographs of sculptures and pottery I made between 2015-2019. The GAN required me to augment  the data in multiple ways, including photographing my work from all sides. My vision was that the GAN would \"imagine\" my future work based on past work. However, the GAN was limited in ways that made this unfeasible. It was trapped within my prior work and could not imagine the new. I developed a collaboration with the machine where the shortcomings of the GAN become generative of new form. I prompted the GAN with my past work, and I interpreted its output as a prompt to either create the unknown half or interpret the output in 3 dimensions. It was within this unknown space that a void was created which offered the opportunity for novelty. As the GAN navigated this void, attempting to create new form from old, I also navigated this void. I embrace and utilize these digital shortcomings as a marking of time within technology and my own art practice.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/86/IterativeIterative_ErinSmith_01.png",
+            "https://workshop2021.blob.core.windows.net/art/86/IterativeIterative_ErinSmith_02.png",
+            "https://workshop2021.blob.core.windows.net/art/86/IterativeIterative_ErinSmith_03.png",
+            "https://workshop2021.blob.core.windows.net/art/86/IterativeIterative_ErinSmith_04.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 90,
+        "Title": "Invisible",
+        "Author": "Han Yan (test)*",
+        "Year": 2021,
+        "Description": "Invisible (2021) describes every community that is seen but not heard, every individual who is given space but not given a place. This project uses a compositional pattern-producing network to expose the ambiguity of visibility. The invisibility itself can be invisible at times. The shared sidelined experience repeats and propagates through the mirrors of history. But perhaps, in a parallel world, it becomes visible again. ",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/90/Invisible_01.png",
+            "https://workshop2021.blob.core.windows.net/art/90/Invisible_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/90/Invisible_03.mp4"
+        ]
+    },
+    {
+        "ID": 91,
+        "Title": "Sole Soil",
+        "Author": "Nikolay Ulyanov (Rhizomorphic Mycelium Institute)*; Julia Vergazova (Rhizomorphic Mycelium Institute)",
+        "Year": 2021,
+        "Description": "https://gexahedron.github.io/project/sole_soil/\n\n3d objects, video, infographics, installation\nGeological traces of the Anthropocene are chicken bones and footprints of the soles of sneakers. As an alternative to the dominant approaches in the field of modern environmental management, namely the extraction and exploitation of natural resources, we would like to propose a more careful approach to the relationship with the earth's surface at the micro-level of the soil horizon, associated with the personal contribution of each individual.\nThe main element of the human-soil communication interface (or soil-sole) is the reliefs and dents left by the surface of the soles of our shoes. In this project, we propose various configurations of shoe soles obtained with methods of machine learning and analysis.\nWe have studied the data of different soil samples. Next, we analyzed the properties of density, flowability, and rock hygroscopicity. Further, by setting target parameters based on these data, by machine learning of the neural network on datasets of sole patterns used in forensic science, we generate the optimal and most favorable sole designs for a given area of the sole shape, which could carry the recreational potential, prevent erosion, weathering or swamping of the area of application.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/91/sole_soil_01.png",
+            "https://workshop2021.blob.core.windows.net/art/91/sole_soil_02.png",
+            "https://workshop2021.blob.core.windows.net/art/91/sole_soil_04.png",
+            "https://workshop2021.blob.core.windows.net/art/91/sole_soil_05.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/91/sole_soil_03.mp4"
+        ]
+    },
+    {
+        "ID": 92,
+        "Title": "Take A Selfie",
+        "Author": "Atefeh Mahdavi Goloujeh (Georgia Institute of Technology)*",
+        "Year": 2021,
+        "Description": "What does it really mean to disappear? Disappearance can take many forms and reasons. From actually covering yourself to different degrees of self-censorship. There are women who intentionally or unintentionally, willingly or forcefully disappear to be able to live in their societies. If they raise their voice or don’t follow the patriarchal norms, they will be silenced and censored. “Take a selfie!” symbolically walks you through this experience of inevitable disappearance using AI. \nThe interface prompts you to take a photo of yourself. When a face is detected in the frame, Al makes you barely recognizable by starting the glitch. To stop the glitch, you need to cover your face which means limiting your freedom of expression. The selected glitch pattern leaves a trace of recognizable body parts, however, it takes away the cohesion of the subject. \nThe interface is implemented in p5.js using the faceAPI.js which is built on top of tensorflow.js to handle face detection and p5.glitch a library for glitching images and videos. This project was done as part of the Computer as an Expressive Medium course offered by Dr. Anne Sullivan in the Digital Media program at Georgia Institute of Technology.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/92/takeASelfie_AtefehGoloujeh_01.png",
+            "https://workshop2021.blob.core.windows.net/art/92/takeASelfie_AtefehGoloujeh_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/92/takeASelfie_AtefehGoloujeh.mp4"
+        ]
+    },
+    {
+        "ID": 96,
+        "Title": "JideNka",
+        "Author": "Chris Chinenye Emezue (Technische Universitat Munchen)*; Gloria M.T Emezue (Alex Ekwueme Federal University Ndufu Alike)",
+        "Year": 2021,
+        "Description": "Jide Nka is a conceptualized Artificial Intelligence platform, which will enable the machine creation of poems and stories within which African sensibilities and literary styles can be incorporated. The inspiration for this project came from the duo’s attempt at creating an African poem with the Google’s Verse by Verse artificial Intelligence platform. Although, the duo succeeded in creating two poems, yet they saw that their creation was overshadowed by western styles and sensibilities, hence the need for an artificial intelligence platform that could be dedicated to African literary creations. From an indigenous African language phrase that means “always hold on to creativity” or “always be creative,” Jide Nka machine learning model will enable the production of diverse literary creative styles that reflect the richness of the African literary landscape.\n\nhttps://github.com/chrisemezue/jidenka",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/96/jidenka_01.png",
+            "https://workshop2021.blob.core.windows.net/art/96/jidenka_02.png",
+            "https://workshop2021.blob.core.windows.net/art/96/jidenka_03.png",
+            "https://workshop2021.blob.core.windows.net/art/96/jidenka_04.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 100,
+        "Title": "Floating Utopia: Act 2",
+        "Author": "Julia Vergazova (Rhizomorphic Mycelium Institute); Nikolay Ulyanov (Rhizomorphic Mycelium Institute)*",
+        "Year": 2021,
+        "Description": "3d objects, video, installation, AR\nSwamps are zones of geological instability, floating boundaries between land and water. They are also natural ecotones - sources of biodiversity, places of stress where ecosystems meet. Loss of biodiversity is related to the ability of one species (human) to cause global changes within an ecosystem, similar to fractures and tearings in its tissues. The place where this change takes place is called the “critical zone”: the area of the Earth’s surface, thin but vital skin of the planet, where organisms regulate the flow of resources necessary to sustain life. As a result of human impact on ecosystems, a rupture occurs in the surface of the self-regulating skin of the planet.\nWe use surveillance camera images, which we feed into 3d-photo-inpainting network. The network has a somewhat accidental, invisible byproduct, the 3d point clouds (in the same vein as oxygen is sometimes viewed as a lucky accident of photosynthesis).\nInstallation also includes video with rolling credits, as it happens at the end of the movie, consisting of descriptions of the world we are accustomed to. The text lines were obtained by pattern and object recognition system DenseCap.",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/100/floating_utopia_act2_01.png",
+            "https://workshop2021.blob.core.windows.net/art/100/floating_utopia_act2_02.png",
+            "https://workshop2021.blob.core.windows.net/art/100/floating_utopia_act2_03.png",
+            "https://workshop2021.blob.core.windows.net/art/100/floating_utopia_act2_05.png",
+            "https://workshop2021.blob.core.windows.net/art/100/floating_utopia_act2_06.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/100/floating_utopia_act2_04.mp4"
+        ]
+    },
+    {
+        "ID": 101,
+        "Title": "Metafolk",
+        "Author": "Georgy Bagdasarov (Neural Bending)*",
+        "Year": 2021,
+        "Description": "What is the cultural tradition in the age of hyperconnectivity? \nIn the Metafolk project we create folkloric tradition and musical cultural identities which exist in flexible isomorphic topology of latent space of trained model. \nThe voice is the common element across different cultures. The techniques of vocal expressions as well as the melodic structures create strong musical patterns of cultural identities. In Metafolk the generated music evokes musical pattern of unknown folkloric singing traditions without geographic locations. Instead of creating musical national identity Metafolk rather provoke certain alienation or \"otherness\" of someone else musical culture.\nMetafolk project uses Uncoditional Audio GAN method to generate music. Instead of extensive training we decided to reduce our “footprint” and we used less eager fine-tuning of existed vocal model. The training dataset consisted of vocal expressions of several cultural traditions. Later we explored the \"semantic\" intepretability of the latent space so we can understand cultural \"clustering\" and \"geography\" of common vocal features.\nThe algorithm without body generate the fluid identity of the corporal activity of singing.\n\nhttps://soundcloud.com/der-ersatzsteil/sets/metafolk",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/101/metafolk_01.png",
+            "https://workshop2021.blob.core.windows.net/art/101/metafolk_02.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 103,
+        "Title": "Flocking Camouflage - and obvious appearance",
+        "Author": "Hiroki Kamba (stu)*",
+        "Year": 2021,
+        "Description": "Flocking Camouflage - and obvious appearance is the artwork that aims to use of camouflage for group dance. \nIn left part of the work, group dance of camouflage in one scene is exhibited. Sometimes they hide themselves in their surrounding environment, but other time, they move and appear with embedded textures which could hide them if they stay still. A repeat of appearance and disappearance creates a novel form of group dance.\nIn right part ot the work, sources for leftside group dance are listed. Bringing synthesized textures to original sources, it is obvious that these textures don't fit in original sources. However, \"obvious\" appearance is one form of camouflage (it may be called \"failed camouflage\"!), and sequence of these images also could become group dance.\n\nadditional information : \nrelated work : https://youtu.be/D1jnHQgyPKE\nrelated repository : https://github.com/hirokic5/Pytorch_CamouflageImages.git",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/103/FlockingCamouflage_01.png",
+            "https://workshop2021.blob.core.windows.net/art/103/FlockingCamouflage_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/103/FlockingCamouflage_03.mp4"
+        ]
+    },
+    {
+        "ID": 109,
+        "Title": "Artificialis Releivo - Artificial Relief",
+        "Author": "Kyle Steinfeld (UC Berkeley)*; Titus Ebbecke (UC Berkeley); Georgios Grigoriadis (UC Berkeley); David Zhou (UC Berkeley)",
+        "Year": 2021,
+        "Description": "A dataset of fragmented and decontextualized Greco-Roman sculptural relief underlies the generation of uncanny forms that straddle the unrecognizable and the familiar. Samples include those drawn from the Pergamon Altar: a Greek construction originating in modern-day Turkey, disassembled in the late 19th century, and re-assembled in the early 20th century in a Berlin museum. The project operates similarly. It begins with a disassembly of selected sculptural forms into fragments that can be described as deformations of a flat sheet. Where ML processes often struggle to describe three-dimensional form, these \"vector displacement maps\" are comprehensible to the machine, and serve to train a neural network - a gently modified implementation of StyleGAN - to understand the form-language of the selected source material. Recalling the rhythmic symmetry of frieze patterns found in traditional Western ornament, a \"walk\" through the latent space of Greco-Roman sculptural forms is aggregated across a surface in high relief.\n\nhttp://ksteinfe.com/hype/exb-artificialis-releivo-neurips.html",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/109/artificialis_releivo_01.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/109/artificialis_releivo_03.mp4"
+        ]
+    },
+    {
+        "ID": 112,
+        "Title": "Bureau of Cloud Management",
+        "Author": "Yuguang Zhang (NYU IMA Low Res)*; Tong Wu (N/A)",
+        "Year": 2021,
+        "Description": "In an era when a cloud is defined as a fast-paced, shapeless, global-scaled computing system, we miss the afternoons of laying on the lawn and simply observing the fluffy, cotton-like clouds slowly floating by, constantly changing shapes.\n\nPerhaps every human being born to this planet had a moment of looking up to the clouds. As individuals, clouds have drawn the initial picture of our dreams. Building upon countless gazes and primitive human imagination across time and space, clouds constitute the broadest interconnection of the world. \n\nTherefore, we want to recreate clouds with the cloud.\n\nAdapted from the short novel \"The Submarine at Night\" by novelist Chuncheng Chen, we created a simulated environment that depicts the daily working scenes of the Bureau of Cloud Management (BCM), an imaginary government agency which is responsible for monitoring and taking record of each cloud passing by to ensure their lawful entry. \n\nThe trajectory of a piece of moving cloud we observed near our apartment in Brooklyn was used as the path of finding \"cloud prompts\" in the UMAP embeddings of Word2Vec. 2D clouds were then generated using CLIP-Guided-Diffusion according to the prompts, and converted into 3D cloud assets for the imaginary *BCM* created using Unreal 5 and Cinema4D.\n\nhttps://www.ygzhang.com/cloud.html",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/112/Bureau_of_Cloud_Management_01.png",
+            "https://workshop2021.blob.core.windows.net/art/112/Bureau_of_Cloud_Management_02.jpg"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/112/Bureau_of_Cloud_Management_03.mp4"
+        ]
+    },
+    {
+        "ID": 114,
+        "Title": "Crystal Palace",
+        "Author": "Neilson Koerner-Safrata (SCRNPRNT)*",
+        "Year": 2021,
+        "Description": "A century after automotive industrialization, the car is now centred in another industrial shift, a vehicle for autonomous machine intelligence. The new computational Fordism of smartness, simulation, and deep learning promises to create the cognitive and sensorial capacities of a driving agent. If the car was the agent that was able to redefine our relationships to industry, energy, and the built environment, etc., then as the silicon chip eats the car, will these relationships not be rebuilt once over in this image? The manufacture of self-driving vehicles, a combined governmental and computational task, will disclose how humans and autonomous machine agencies do or do not coexist within the policies of computational Fordism. \n\nAn automobile is already a cognitive device, or at least a computational one. As ongoing chip shortages completely halt car production, and while petrol shocks come and go, lithium and silicon are now two key ingredients in operating automobiles.\n\nWhen the cognitive capacities to drive are eventually developed, would this new autocene not also coincide with the creation of the noocene, an explosion of autonomous agents? Who or what a car is, and the distributed effects of this uncovering, are broached in a speculative way between intelligences and automotives, when do cars begin to think, and what do we think of cars. \n\nVideo / Stills - http://scrnprnt.ca/CrystalPalaceCarPresskit.html\n\n\n\n",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/114/CrystalPalace_01.png",
+            "https://workshop2021.blob.core.windows.net/art/114/CrystalPalace_02.png",
+            "https://workshop2021.blob.core.windows.net/art/114/CrystalPalace_05.png"
+        ],
+        "Videos": []
+    },
+    {
+        "ID": 115,
+        "Title": "Looking 4 U",
+        "Author": "Derrick Schultz (Artificial Images)*",
+        "Year": 2021,
+        "Description": "Using pose detection to search  over 2 million images from  dance television shows of the 70s, 80s and 90s, ‚ÄúLooking 4 U‚Äù is a kinetic music video exploring filmic collage techniques, generative textures, audiovisual rhythms, and the universal art of shaking your butt.\n\nMusic: Haven't You Heard (Fitzy's Half Charged Mix), Alan Fitzpatrick and Patrice Rushen\n\nFull video can be seen here: https://vimeo.com/614076230 ",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/115/looking4u_01.png",
+            "https://workshop2021.blob.core.windows.net/art/115/looking4u_02.png",
+            "https://workshop2021.blob.core.windows.net/art/115/looking4u_04.png",
+            "https://workshop2021.blob.core.windows.net/art/115/looking4u_05.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/115/looking4u_03.mp4"
+        ]
+    },
+    {
+        "ID": 118,
+        "Title": "Interlocation",
+        "Author": "Ryan Thompson (None)*",
+        "Year": 2021,
+        "Description": "Original piano score by Ryan Skillings, sound design by Ryan Thompson\n\nInterlocation was created with a custom made image dataset which was built using traditional photography concepts in mind; aperture, shutter speed, depth of field, focal length and focus. With this dataset a model was trained (StyleGan) and a contact sheet of various images were tested. From this contact sheet the choreography and narrative of the film was produced, seed by seed.\n\nhttps://ryanthompson.name/locations\nIPFS Link: https://ipfs.io/ipfs/QmQoUp8RxHLi4SkRMt4r7cn7qcg4GFzPv45vii7Yb1RPjy\n\n\r",
+        "Images": [],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/118/Interlocation.mp4"
+        ]
+    },
+    {
+        "ID": 120,
+        "Title": "Games for bodies",
+        "Author": "Emily S Saltz (The New York Times)*",
+        "Year": 2021,
+        "Description": "12 games generated by GPT-2, fine-tuned on improv games collected from Pamela Fox.*  \n\nCONTENTS\n01. THE BODY\n02. A GAME IN BEING        \n03. POWER STRUGGLE        \n04. DECIDE WHAT WILL BE ENOUGH        \n05. THE SOUNDULATING FIRE KEEPER        \n06. WHO WINS WHEN... (WHO GETS WHAT        \n07. IT'S THE YEAR OF THE BUNNY!        \n08. HAPPY BIRTHDAY, OSCAR WILDE        \n09. SECRETS        \n10. WHERE ARE YOU GOING        \n11. EXPLODING CUBE\n12. I AM AND WHAT DO I DO\n\n________________\n01. THE BODY\nThe body will be split into 2 parts. The first part will be the body part, the second part will be the mind. The mind will be the object of your attention.\nIt can be done in 2-person groups, but that's not recommended.\nThe second half of the game is about making sense of an infinite number of things, then having to decide whether to make sense of them or not.\n________________\n\n\n02. A GAME IN BEING.\nDirections:\n1. One person goes on stage, and they ask: \"Can I have one piece of chocolate? Can I have one piece of popcorn?\"\n2. The person in the audience replies, \"Yes, sir.\"\n________________\n\n\n03. POWER STRUGGLE\nThe idea of a \"power struggle\" is quite common in the West. You enter a room and sit in a chair. A group of people go up to you and run into a scene. The leader tells you to line yourself up in a manner that suggests a struggle, like \"I'm going to slap a banana across the face of the other person, and they'll grumble under their breath!\" You respond with a motion that suggests how to respond, like \"I'll slap my face into the other person's, and they'll grumble under their breath!\" You finish the scene, and then everyone claps.\nA fun game to train the body to be ready to be used in a scene.\n________________\n\n\n04. DECIDE WHAT WILL BE ENOUGH.\n#Secrets #AudienceCapture #GroupMind\nDirections:\n1. Decide what action will be enough to make up a sentence.\n2. Decide what action will be enough to make up a word.\n3. Decide what action will be enough to make up a noun.\n4. Decide what action will be enough to make up a verb.\n________________\n\n\n05. THE SOUNDULATING FIRE KEEPER.\nDirections:\n1. Everyone splits into pairs\n2. One person will be the Fire Keeper, the other will be the Fireman.\n3. The Fire Keeper starts by asking the audience for a suggestion for a genre (\"fire thriller\").\n4. Once they've had a chance to ask the genre, the Fire Keeper will start making sounds, making sounds like \"crack\" and occasionally saying \"whale!\".\n5. The Fire Keeper continues making sounds until they get to the point where they stop soundulating.\n6. At that point, the Fireman calls out another sound, and they stop soundulating again.\nOnce you've had a chance, you can turn this into a game of \"Who wins when...\" or \"Who gets what?\"\n________________\n\n\n06. WHO WINS WHEN... (WHO GETS WHAT?)\nDirections:\n1. Everyone stands in a circle.\n2. The Fire Keeper starts by saying \"1\" to everyone else in the circle.\n3. The next person replies with a single word.\n4. The first person in the circle replies with a single word of the first word of the next word in the circle.\n5. The Fire Keeper continues saying \"1\" to everyone else in the circle.\n6. At some point, you might be able to get the Fire Keeper to stop saying \"1\" to everyone else in the circle. If so, you can end the game after.\nYou can also start with \"2\" and then \"3\" to give the Fire Keeper a little extra motivation behind their responses.\n________________\n\n\n07. IT'S THE YEAR OF THE BUNNY!\nDirections:\n1. Everyone stands in a circle.\n2. The Bunny talks to the audience for a few seconds.\n3. The audience gives them hints on what the bunny wants to say, like \"baby\" or \"egg\".\n4. The bunny now says \"Yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes yes Yes Yes Yes Yes Yes Yes\"\nVariations: You can also add the \"noises\", like \"beep\" or \"whale\" to the mix.\n________________\n\n\n08. HAPPY BIRTHDAY, OSCAR WILDE.\nA game of letting go of control and letting go of status.\nDirections:\n1. Everyone sit or stand in a circle.\n2. The first person starts singing \"Happy Birthday, Oscar Wilde\" in a circle.\n3. That person then sings \"Thank You\" once again, and everyone cheers.\n4. The next person sings \"More Good Things\" once more, and everyone cheers.\n5. The next person sings \"You're the boss now, sir\" once more, and everyone cheers.\n6. The next person sings \"Thank You\" once more, and everyone applauds.\n7. Continue playing until you've had your fill.\n________________\n\n\n09. SECRETS.\nTwo people skip the line to register as \"Secrets\". They'll say the same thing together, and then they'll be joined by a group of people who are the same size but with different names. The goal is to make it clear what the secret is, and to make it clear to everyone else, so that its not hard to understand. They can be clumsiness-prone or shy.\nVariants: It can be fun to be the one to make a new name if you can maintain the name.\n________________\n\n\n10. WHERE ARE YOU GOING.\nDirections:\n1. The pair is a passenger in a taxi.\n2. The taxi driver asks the passenger \"where are you going?\"\n3. The passenger replies \"to the dark cave\", and the taxi driver asks them \"where are you going?...\"\n4. The taxi driver tries to make sense of the question, but they can't understand the answer, because the answer isn't what they were thinking at the time.\n5. After a few minutes the taxi driver comes back with a new question.\n6. The passenger responds \"where am I going, to the dark cave?\", and the taxi driver asks them \"where are you going, to the dark cave?\"\n7. The taxi driver tries to make sense of the question, but they can't understand the answer, because the answer isn't what they were thinking at the time.\n8. After a few minutes the taxi driver comes back with a new question.\nSome people might find it hard to understand what they are saying, as it makes it hard for them to understand why the question is being asked. After all, that's what the game is about.\n________________\n\n\n11. EXPLODING CUBE.\n#GroupBonding #SpaceObjects\nDirections:\n1. Everyone split into pairs and line up as described in this post:\n2. One person starts by blowing up a cube.\n3. The rest whistle-beep in the style of \"They said, they'll blow up whatever they have!\"\n4. The cube then explodes into a pile of bricks.\n5. The leader encourages everyone to start blowing things up, and then suggests a new sound for the game: \"Scenes from the Ebb and Flow\", \"Space Opera A Funny Thing to Do, and a Good Ballad to Play in the Ebb and Flow\".\n6. The pairs continue blowing things up until they finally blow up their cube.\n7. The timer goes off for a minute or so.\n8. The game continues until everyone gets to say \"Dude, that's just enough!\".\n________________\n\n\n12. I AM AND WHAT DO I DO.\nDirections:\n1. Everyone stands in a circle.\n2. One person starts by turning to the passer and saying \"I am\" while looking straight at the passer and holding their hand.\n3. The passer then turns and says \"I am and what do I do?\" while looking straight at the passer and holding their hand.\n4. The next person answers back (often slowly, as we're trying to make sure every person is speaking intelligible English).\n5. The passer continues looking straight at the passer and holding their hand.\n6. This continues until everyone who sees it is ready to say \"I am\" or \"I am terribly, terribly, terribly, terribly, terribly, terribly\".\n7. Then everyone yells \"What are we doing?\" and some other form of relating story.\nThe first player to say \"I am\" will start with \"I am\" and then become the storyteller. You can add a subplot to this, if you want a particular twist.\n\n________________\n\n* https://github.com/pamelafox/improvlists",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/120/games_for_bodies_01.png",
+            "https://workshop2021.blob.core.windows.net/art/120/games_for_bodies_02.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/120/preview-gamesforbodies.mp4"
+        ]
+    },
+    {
+        "ID": 122,
+        "Title": "Three Stage Drawing Transfer",
+        "Author": "Robert D Twomey (Johnny Carson Center for Emerging Media Arts)*",
+        "Year": 2021,
+        "Description": "This project creates a visual-mental-physical circuit between a generative adversarial network (GAN), a co-robotic arm, and a 5 year old child. From source training images to the latent space of a GAN to pen on paper and a final human interpreter, it establishes a flow of visual communications between a number of human and non-human actors. Enmeshed together, these discrete translational stages juxtapose advanced emerging technologies and childlike expression.\n\nThe title of the project refers to Dennis Oppenheim’s intimate 1971 performance ‘Two Stage Transfer Drawing’, a direct inspiration for this work. In that piece, Oppenheim staged a photographic drawing performance with his son, reconceiving the task of drawing as a mode of intimate, embodied, inter-generational touch-based communication. Here, I have added additional stages of transfer: from the host of absent child artists contributing images to the blackbox neural network (GAN) trained on them; through the robotic arm transferring them with pen to paper; to my son’s eyes—where they are seen, named, and rendered through his own hand and mind.\n\nhttp://roberttwomey.com/three-stage-drawing-transfer/",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/122/three_stage_01.png",
+            "https://workshop2021.blob.core.windows.net/art/122/three_stage_02.png",
+            "https://workshop2021.blob.core.windows.net/art/122/three_stage_03.png",
+            "https://workshop2021.blob.core.windows.net/art/122/three_stage_04.png",
+            "https://workshop2021.blob.core.windows.net/art/122/three_stage_05.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/122/three_stage_01.mp4",
+            "https://workshop2021.blob.core.windows.net/art/122/three_stage_02.mp4"
+        ]
+    },
+    {
+        "ID": 124,
+        "Title": "the past is latent",
+        "Author": "Ugaso Sheik-Abdi (Independent Researcher)*",
+        "Year": 2021,
+        "Description": "I've been intrigued by the idea of flip flopping - taking art from the digital medium and transferring it to the physical world (or vice versa). This piece was generated by an algorithm's interpretation of what a text prompt of 'the past is latent' looks like, using Ryan Murdocks Latent Visions notebook (Taming Transformers and CLIP). This generated image was filtered and converted into a line drawing with DrawingBotV3 software. Finally, as shown in the attached video, it was printed with a pen plotter with help from Lauren Gardner at Bold Machines. For more art, you can follow my instagram @u.got.soul",
+        "Images": [
+            "https://workshop2021.blob.core.windows.net/art/124/the_past_is_latent_01.png",
+            "https://workshop2021.blob.core.windows.net/art/124/the_past_is_latent_02.png",
+            "https://workshop2021.blob.core.windows.net/art/124/the_past_is_latent_03.png",
+            "https://workshop2021.blob.core.windows.net/art/124/the_past_is_latent_05.png"
+        ],
+        "Videos": [
+            "https://workshop2021.blob.core.windows.net/art/124/the_past_is_latent_04.mp4"
+        ]
+    }
+]

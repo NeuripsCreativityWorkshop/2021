@@ -1,0 +1,62 @@
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(32, 32, 32);
+    width: 400;
+    box-shadow: 24;
+    width: 80%;
+    height: 80vh;
+    color: white;
+    overflow-y: scroll;
+    border-radius: 20px;
+}
+
+.container {
+    padding: 10px 30px 30px 10px;
+}
+
+.image {
+    width: 80%;
+    aspect-ratio: 16/9;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    font-family: monospace;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    font-family: monospace;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.description {
+    font-family: monospace;
+    font-weight: 100;
+}
+
+.carousel{
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.example::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .example {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }

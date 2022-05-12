@@ -1,0 +1,28 @@
+.container {
+    padding: 50px 50px 30px 50px;
+    box-sizing: border-box;
+    color: #373737;
+    background: rgb(43,43,43);
+    font-size: 16px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 50px;
+}
+
+
+.titleStyle {
+    margin: 0;
+    color: #fff;
+    font-size: 42px;
+    font-weight: 700;
+    text-shadow: #111 0px 0px 10px;
+}
+
+.subtitleStyle {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 300;
+    background: none;
+    text-shadow: #111 0px 0px 10px;
+}
