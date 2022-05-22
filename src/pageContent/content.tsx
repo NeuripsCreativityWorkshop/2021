@@ -408,7 +408,10 @@ export const content = {
                 </p>
                 <ol>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_5.pdf">
+                        <a
+                            type="application/pdf"
+                            href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_5.pdf"
+                        >
                             ArtTension: Artistically extended generation based
                             on single-image learning
                         </a>
@@ -419,7 +422,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_7.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_7.pdf">
                             Audio-Guided Image Manipulation for Artistic
                             Paintings
                         </a>
@@ -434,7 +437,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_9.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_9.pdf">
                             Aesthetic Evaluation of Ambiguous Imagery
                         </a>
                         <ul>
@@ -447,7 +450,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_11.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_11.pdf">
                             Dance2Music: Automatic Dance-driven Music Generation
                         </a>
                         <ul>
@@ -457,7 +460,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_16.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_16.pdf">
                             Telling Creative Stories Using Generative Visual
                             Aids
                         </a>
@@ -468,7 +471,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_17.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_17.pdf">
                             Soundify: Matching Sound Effects to Video
                         </a>{' '}
                         |{' '}
@@ -486,7 +489,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_18.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_18.pdf">
                             Modern Evolution Strategies for Creativity: Fitting
                             Concrete Images and Abstract Concepts
                         </a>
@@ -497,7 +500,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_19.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_19.pdf">
                             Towards “Gestalt” Computation in Sound
                         </a>
                         <ul>
@@ -510,7 +513,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_20.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_20.pdf">
                             Physically Embodied Deep Image Optimisation
                         </a>
                         <ul>
@@ -520,7 +523,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_21.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_21.pdf">
                             Composer AI with tap-to-pitch generator
                         </a>
                         <ul>
@@ -532,7 +535,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_29.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_29.pdf">
                             Deep Learning Tools for Audacity: Helping
                             Researchers Expand the Artist’s Toolkit
                         </a>
@@ -546,7 +549,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_32.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_32.pdf">
                             GANspire: Generating Breathing Waveforms for
                             Art-Health Applications
                         </a>
@@ -560,7 +563,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_41.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_41.pdf">
                             Losses, Dissonances, and Distortions
                         </a>
                         <ul>
@@ -570,7 +573,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_44.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_44.pdf">
                             StyleCLIPDraw: Coupling Content and Style in
                             Text-to-Drawing Synthesis
                         </a>{' '}
@@ -587,7 +590,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_51.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_51.pdf">
                             Artistic Autonomy in AI Art
                         </a>
                         <ul>
@@ -597,7 +600,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_53.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_53.pdf">
                             Beauty
                         </a>
                         <ul>
@@ -610,7 +613,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_57.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_57.pdf">
                             GANArtworks In the Mood
                         </a>
                         <ul>
@@ -624,7 +627,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_58.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_58.pdf">
                             Controllable and Interpretable Singing Voice
                             Decomposition via Assem-VC
                         </a>{' '}
@@ -639,7 +642,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_59.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_59.pdf">
                             BERTian Poetics: Constrained Composition with Masked
                             LMs
                         </a>
@@ -650,7 +653,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_70.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_70.pdf">
                             Towards Lightweight Controllable Audio Synthesis
                             with Conditional Implicit Neural Representations
                         </a>
@@ -664,7 +667,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_76.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_76.pdf">
                             Inspiration Retrieval for Visual Exploration
                         </a>
                         <ul>
@@ -677,7 +680,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_78.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_78.pdf">
                             Extending the Vocabulary of Fictional Languages
                             using Neural Networks
                         </a>{' '}
@@ -695,7 +698,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_82.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_82.pdf">
                             Steerable discovery of neural audio effects
                         </a>
                         <ul>
@@ -705,7 +708,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_85.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_85.pdf">
                             XCI-Sketch: Extraction of Color Information from
                             Images for Generation of Colored Outlines and
                             Sketches
@@ -721,7 +724,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_88.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_88.pdf">
                             Exploring Latent Dimensions of Crowd-sourced
                             Creativity
                         </a>
@@ -735,7 +738,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_89.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_89.pdf">
                             Ethics and Creativity in Computer Vision
                         </a>
                         <ul>
@@ -748,7 +751,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_93.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_93.pdf">
                             Evolving Evocative 2D Views of Generated 3D Objects
                         </a>
                         <ul>
@@ -758,7 +761,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_94.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted.pdf">
                             RiverGAN: Fluvial Landscapes Generation with
                             Conditional GAN and Physical Simulations
                         </a>
@@ -769,7 +772,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_98.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted.pdf">
                             Sculpting with Words
                         </a>
                         <ul>
@@ -781,7 +784,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_99.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_99.pdf">
                             Neural Design Space Exploration
                         </a>
                         <ul>
@@ -794,7 +797,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_102.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_102.pdf">
                             Inspiration through Observation: Demonstrating the
                             Influence of Generated Text on Creative Writing
                         </a>
@@ -805,7 +808,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_104.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_104.pdf">
                             Gaudí: Conversational Interactions with Deep
                             Representations to Generate Image Collections
                         </a>
@@ -819,7 +822,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_105.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_105.pdf">
                             Discriminator Synthesis: On reusing the other half
                             of Generative Adversarial Networks
                         </a>
@@ -830,7 +833,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_108.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_108.pdf">
                             Malakai: Music That Adapts to the Shape of Emotions
                         </a>
                         <ul>
@@ -844,7 +847,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_110.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_110.pdf">
                             Generating Diverse Realistic Laughterfor Interactive
                             Art
                         </a>
@@ -858,7 +861,7 @@ export const content = {
                         </ul>
                     </li>
                     <li>
-                        <a href="https://neuripscreativityworkshop.github.io/2021/accepted/ncw_111.pdf">
+                        <a href="https://docs.google.com/viewer?url=github.com/NeuripsCreativityWorkshop/2021/raw/main/accepted/ncw_111.pdf">
                             ABCD: A Bach Chorale Discriminator
                         </a>
                         <ul>
