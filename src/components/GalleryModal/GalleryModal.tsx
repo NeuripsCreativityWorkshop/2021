@@ -12,10 +12,6 @@ interface Props {
     onClose: () => void;
 }
 
-const imgOnClick = (item: GalleryItemObject) => {
-    item;
-};
-
 const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
     if (!item) {
         return <></>;
@@ -101,12 +97,18 @@ const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
                             >
                                 {item.Images.map((imageUrl) => {
                                     return (
-                                        <img
+                                        <a
                                             key={imageUrl}
-                                            src={imageUrl}
-                                            className={styles.image}
-                                            onClick={imgOnClick}
-                                        />
+                                            href={imageUrl}
+                                            target="_blank"
+                                            rel="noreferrer"
+                                        >
+                                            <img
+                                                key={imageUrl}
+                                                src={imageUrl}
+                                                className={styles.image}
+                                            />
+                                        </a>
                                     );
                                 })}
                             </Carousel>

@@ -50,6 +50,6 @@ def get_all_img_files_recursively(basedir):
     return [x for x in listOfFiles if x.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif'))]
 
 
-dirName = r"C:\Users\liail\OneDrive\NeurIPS_Website\80_Presentation2";
+dirName = r"C:\Users\liail\Downloads\gallery_2021_thumbnails";
 all_ims = get_all_img_files_recursively(dirName)
 resize_all_ims(all_ims)
