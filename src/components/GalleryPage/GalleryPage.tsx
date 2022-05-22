@@ -2,7 +2,7 @@ import { Container, Grid } from '@mui/material';
 import React, { useState } from 'react';
 import GalleryItem from '../GalleryItem/GalleryItem';
 import GalleryModal from '../GalleryModal/GalleryModal';
-import { MockGalleryItems } from './GalleryMockData';
+import { GalleryItems as GalleryItems } from './GalleryData';
 import styles from './GalleryPage.module.scss';
 import { GalleryItemObject } from './GalleryPage.types';
 
@@ -21,7 +21,7 @@ const GalleryPage = (): JSX.Element => {
         setOpenedItem(item);
     };
 
-    const featuredItems = MockGalleryItems.filter((item) =>
+    const featuredItems = GalleryItems.filter((item) =>
         FEATURED_ARTWORK_IDS.includes(item.ID),
     ).map((item) => {
         return (
@@ -31,16 +31,13 @@ const GalleryPage = (): JSX.Element => {
         );
     });
 
-    // rm slice later
-    const otherItems = MockGalleryItems.slice(0, MockGalleryItems.length).map(
-        (item) => {
-            return (
-                <Grid item xs={6} md={4} key={item.ID}>
-                    <GalleryItem item={item} size="sm" onClick={onOpenItem} />
-                </Grid>
-            );
-        },
-    );
+    const allItems = GalleryItems.map((item) => {
+        return (
+            <Grid item xs={6} md={4} key={item.ID}>
+                <GalleryItem item={item} size="sm" onClick={onOpenItem} />
+            </Grid>
+        );
+    });
 
     return (
         <div className={styles.background}>
@@ -60,7 +57,7 @@ const GalleryPage = (): JSX.Element => {
                 </Grid>
                 <h3 className={styles.heading}>All Artworks</h3>
                 <Grid container spacing={3} className={styles.gridAll}>
-                    {otherItems}
+                    {allItems}
                 </Grid>
             </Container>
         </div>

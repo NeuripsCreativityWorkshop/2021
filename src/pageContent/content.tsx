@@ -876,15 +876,22 @@ export const content = {
         body: (
             <>
                 <p>
+                    Our <a href="/2021/#/gallery">online art gallery</a>{' '}
+                    contains all of the accepted artworks.
+                </p>
+                <p>
                     This year we saw 52 artwork submissions with a near 100%
                     acceptance rate. Artworks were accepted unless they violated
                     formatting requirements. Four exceptional artworks were
                     awarded a spotlight in the form of a 5-min presentation
                     during the workshop. During the workshop, artworks were
-                    displayed in the form of a slideshow (below). Our{' '}
-                    <a href="/2021/#/gallery">online art gallery</a> contains
-                    all of the accepted artworks.
+                    displayed in the form of the below{' '}
+                    <a href="https://www.youtube.com/embed/MtWk2GoHX9A">
+                        slideshow
+                    </a>
+                    .
                 </p>
+
                 <div className="embed-container">
                     <iframe
                         src="https://www.youtube.com/embed/MtWk2GoHX9A"

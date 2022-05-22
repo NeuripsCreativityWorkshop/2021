@@ -3,7 +3,7 @@ import React from 'react';
 import Carousel from 'react-material-ui-carousel';
 import { GalleryItemObject } from '../GalleryPage/GalleryPage.types';
 import styles from './GalleryModal.module.scss';
-import ArrowLeftIcon from '@mui/icons-material/ArrowLeft';
+import ReactReadMoreReadLess from 'react-read-more-read-less';
 
 interface Props {
     item: GalleryItemObject;
@@ -11,16 +11,11 @@ interface Props {
     onClose: () => void;
 }
 
-const createCarouselItemImage = (imageUrl) => (
-    <div>
-        <img src={imageUrl} />
-    </div>
-);
-
 const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
     if (!item) {
         return <></>;
     }
+
     return (
         <>
             <Modal
@@ -30,12 +25,42 @@ const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
                 aria-describedby={item.Description}
             >
                 <Box className={styles.modal}>
-                    <Container maxWidth="sm" className={styles.container}>
+                    <Container maxWidth="md" className={styles.container}>
                         <h2 className={styles.title}>{item.Title}</h2>
                         <h3 className={styles.subtitle}>
                             {item.Author}, {item.Year}
                         </h3>
+                        <div className={styles.description}>
+                            <ReactReadMoreReadLess
+                                charLimit={400}
+                                readMoreText={'Read more ▼'}
+                                readLessText={'Read less ▲'}
+                                readMoreClassName={styles.readMoreButton}
+                                readLessClassName={styles.readLessButton}
+                            >
+                                {item.Description}
+                            </ReactReadMoreReadLess>
+                        </div>
+                        <br />
+                        {item.Videos.map((videoUrl) => {
+                            return (
+                                <video
+                                    key={item.ID}
+                                    controls
+                                    autoPlay
+                                    poster={item.Images.at(
+                                        item.Images.length - 1,
+                                    )}
+                                    src={videoUrl}
+                                />
+                            );
+                        })}
 
+                        {item.Images.length ? (
+                            <h3 className={styles.carouselTitle}>Slideshow</h3>
+                        ) : (
+                            <></>
+                        )}
                         <div className={styles.carousel}>
                             <Carousel
                                 fullHeightHover={false} // We want the nav buttons wrapper to only be as big as the button element is
@@ -46,6 +71,7 @@ const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
                                     },
                                 }}
                                 autoPlay={true}
+                                interval={3000}
                                 navButtonsAlwaysVisible
                                 activeIndicatorIconButtonProps={{
                                     style: {
@@ -72,7 +98,6 @@ const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
                                 })}
                             </Carousel>
                         </div>
-                        <p className={styles.description}>{item.Description}</p>
                     </Container>
                 </Box>
             </Modal>

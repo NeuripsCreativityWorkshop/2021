@@ -11,6 +11,7 @@
     color: white;
     overflow-y: scroll;
     border-radius: 20px;
+    padding: 25px;
 }
 
 .container {
@@ -29,9 +30,11 @@
     font-family: monospace;
     font-weight: 100;
     text-transform: uppercase;
+    font-size: 24pt;
 }
 
 .subtitle {
+    font-size: 16pt;
     font-family: monospace;
     font-weight: 100;
     text-transform: uppercase;
@@ -40,9 +43,32 @@
 .description {
     font-family: monospace;
     font-weight: 100;
+    font-size: 12pt;
+    overflow-wrap: break-word;
+    line-height: 1.4;
+}
+
+.readMoreButton,
+.readLessButton {
+  color: #959595;
+}
+
+video{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 30pt;
+    padding-top: 12pt;
 }
 
 .carousel{
+}
+
+.carouselTitle{
+    text-align: center;
+    font-family: monospace;
+    font-weight: 10;
+    text-transform: uppercase;
+    font-size: 16pt;
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */

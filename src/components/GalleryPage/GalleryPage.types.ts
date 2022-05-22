@@ -1,8 +1,8 @@
 export type GalleryItemObject = {
-    ID: string;
+    ID: number;
     Title: string;
     Author: string;
-    Year: string;
+    Year: number;
     Description: string;
     Images: string[];
     Videos: string[];
