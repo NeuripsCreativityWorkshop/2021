@@ -4,6 +4,10 @@ Webapp for the NeurIPS ML4CD 2021 site.
 
 ## Development
 
+1. `yarn install` to install all package dependencies.
+2. `yarn start` to start the devserver on http://localhost:8080.  No need to refresh between changes; files changes/saves will automatically load on localhost. In other words, hot module replacement is on by default.
+3. Build GH-pages static site with `yarn create:pub`. This will translate the react files to a static site for github pages, and save it in the `docs` folder.
+
 ### Prerequisites
 
 Node.js  
@@ -15,43 +19,3 @@ Yarn Berry
 Visual Studio Code (nice to have)  
 <https://code.visualstudio.com/>
 
-### Installing packages
-
-To install all packages
-`yarn install`
-
-### Build and run
-
-To run devserver on http://localhost:8080  
-`yarn start`
-
-Hot module replacement is on by default. Files changes/saves will
-automatically load on localhost webpage (no need to refresh). Allowing
-for faster development without manual site refresh.
-
-### Build production
-
-Building minified production files  
-`yarn build:prod`  
-minified files placed in dist folder
-
-To test build packages  
-`yarn start:prod` to test prod using webpack dev server
-
-### Test
-
-To run unit tests  
-`yarn test`
-
-### Linting
-
-To run linting and automatically fix issues  
-`yarn lint:fix`
-
-### Precommit hooks
-
-When commiting with git there will be a precommit check for styling and code checks with eslint. Make sure to look at console to fix any errors that may appear.
-
-## Troubleshooting
-
-Coming soon...
