@@ -8,7 +8,7 @@ interface Props {
     onClick?: (item: GalleryItemObject) => void;
 }
 
-const MAX_TITLE_CHAR_LEN = 60;
+const MAX_TITLE_CHAR_LEN = 52;
 const MAX_AUTHOR_CHAR_LEN = 140;
 
 const truncateText = (text: string, maxLen: number) =>

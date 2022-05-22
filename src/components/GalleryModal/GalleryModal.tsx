@@ -1,4 +1,5 @@
-import { Box, Container, Modal } from '@mui/material';
+import { Box, Container, Modal, IconButton } from '@mui/material';
+import CloseIcon from '@mui/icons-material/CloseSharp';
 import React from 'react';
 import Carousel from 'react-material-ui-carousel';
 import { GalleryItemObject } from '../GalleryPage/GalleryPage.types';
@@ -10,6 +11,10 @@ interface Props {
     isOpen: boolean;
     onClose: () => void;
 }
+
+const imgOnClick = (item: GalleryItemObject) => {
+    item;
+};
 
 const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
     if (!item) {
@@ -25,6 +30,13 @@ const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
                 aria-describedby={item.Description}
             >
                 <Box className={styles.modal}>
+                    <IconButton
+                        size="small"
+                        className={styles.closeButton}
+                        onClick={onClose}
+                    >
+                        <CloseIcon className={styles.closeButton} />
+                    </IconButton>
                     <Container maxWidth="md" className={styles.container}>
                         <h2 className={styles.title}>{item.Title}</h2>
                         <h3 className={styles.subtitle}>
@@ -93,6 +105,7 @@ const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
                                             key={imageUrl}
                                             src={imageUrl}
                                             className={styles.image}
+                                            onClick={imgOnClick}
                                         />
                                     );
                                 })}
