@@ -8,12 +8,6 @@ interface Props {
     onClick?: (item: GalleryItemObject) => void;
 }
 
-const MAX_TITLE_CHAR_LEN = 52;
-const MAX_AUTHOR_CHAR_LEN = 140;
-
-const truncateText = (text: string, maxLen: number) =>
-    text.length <= maxLen ? text : text.substring(0, maxLen) + '...';
-
 const GalleryItem = ({ item, size, onClick }: Props): JSX.Element => {
     return (
         <div className={styles.galleryItem}>
@@ -24,12 +18,8 @@ const GalleryItem = ({ item, size, onClick }: Props): JSX.Element => {
                     onClick(item);
                 }}
             >
-                <p className={styles.imageOverlayTitle}>
-                    {truncateText(item.Title, MAX_TITLE_CHAR_LEN)}
-                </p>
-                <p className={styles.imageOverlayAuthor}>
-                    {truncateText(item.Author, MAX_AUTHOR_CHAR_LEN)}
-                </p>
+                <p className={styles.imageOverlayTitle}>{item.Title}</p>
+                <p className={styles.imageOverlayAuthor}>{item.Author}</p>
             </div>
             <img src={item.Images.at(0)} className={styles.imageThumbnail} />
         </div>
