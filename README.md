@@ -4,6 +4,17 @@ Webapp for the NeurIPS ML4CD 2021 site.
   
 <https://neuripscreativityworkshop.github.io/2021/#/>
 
+## Prerequisites
+
+Node.js  
+<https://nodejs.org/en/>
+
+Yarn Berry  
+<https://yarnpkg.com/getting-started/install>
+
+Visual Studio Code (nice to have)  
+<https://code.visualstudio.com/>
+  
 ## Development
 
 1. `yarn install` to install all package dependencies.
@@ -26,15 +37,4 @@ Webapp for the NeurIPS ML4CD 2021 site.
 2. make changes to the json file assigned to content
 3. follow existing json format rules, each section has a title field and body field
 4. Run `yarn start` to test your changes
-
-## Prerequisites
-
-Node.js  
-<https://nodejs.org/en/>
-
-Yarn Berry  
-<https://yarnpkg.com/getting-started/install>
-
-Visual Studio Code (nice to have)  
-<https://code.visualstudio.com/>
 
