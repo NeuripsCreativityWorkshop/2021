@@ -2,7 +2,7 @@
 
 Webapp for the NeurIPS ML4CD 2021 site.
   
-neuripscreativityworkshop.github.io/2021/
+<neuripscreativityworkshop.github.io/2021/>
 
 ## Development
 
