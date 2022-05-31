@@ -28,8 +28,9 @@ Visual Studio Code (nice to have)
 
 1. open src/assets/artworks_content.json
 2. place artwork images and videos somewhere accessibible by url (Blob storage/ image hosting)
-3. edit json to add/edit/remove artworks, follow existing JSON format with unique ID, Title, Author, Description, Images, and Videos.
-4. Run `yarn start` to test your changes
+3. edit json to add/edit/remove artworks, follow existing JSON format with unique ID, Title, Author, Description, Thumbnail, Images, and Videos.
+4. Images will show up from first to last in the slides, as you listed them in the json file
+5. Run `yarn start` to test your changes
 
 ### Editing home page content
 
