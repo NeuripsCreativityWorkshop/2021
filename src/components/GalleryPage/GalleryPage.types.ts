@@ -4,6 +4,7 @@ export type GalleryItemObject = {
     Author: string;
     Year: number;
     Description: string;
+    Thumbnail: string;
     Images: string[];
     Videos: string[];
 };

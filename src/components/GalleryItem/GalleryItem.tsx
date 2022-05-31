@@ -21,7 +21,7 @@ const GalleryItem = ({ item, size, onClick }: Props): JSX.Element => {
                 <p className={styles.imageOverlayTitle}>{item.Title}</p>
                 <p className={styles.imageOverlayAuthor}>{item.Author}</p>
             </div>
-            <img src={item.Images.at(0)} className={styles.imageThumbnail} />
+            <img src={item.Thumbnail} className={styles.imageThumbnail} />
         </div>
     );
 };
