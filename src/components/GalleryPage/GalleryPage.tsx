@@ -1,5 +1,5 @@
 import { Container, Grid } from '@mui/material';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import GalleryItem from '../GalleryItem/GalleryItem';
 import GalleryModal from '../GalleryModal/GalleryModal';
 import { GalleryItems as GalleryItems } from './GalleryData';
@@ -11,6 +11,11 @@ const FEATURED_ARTWORK_IDS = [14, 33, 50, 86];
 const GalleryPage = (): JSX.Element => {
     const [isItemOpened, setIsItemOpened] = useState(false);
     const [openItemed, setOpenedItem] = useState<GalleryItemObject>();
+
+    useEffect(() => {
+        // set scroll position to top
+        window.scrollTo(0, 0);
+    }, []);
 
     const onCloseItem = () => {
         setIsItemOpened(false);
@@ -31,7 +36,9 @@ const GalleryPage = (): JSX.Element => {
         );
     });
 
-    const allItems = GalleryItems.map((item) => {
+    const allItems = GalleryItems.filter(
+        (item) => !FEATURED_ARTWORK_IDS.includes(item.ID),
+    ).map((item) => {
         return (
             <Grid item xs={6} md={4} key={item.ID}>
                 <GalleryItem item={item} size="sm" onClick={onOpenItem} />
