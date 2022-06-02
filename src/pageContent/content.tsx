@@ -4,8 +4,8 @@ import picsArt from '../assets/images/picsart.png';
 export const content = {
     title: 'Machine Learning for Creativity and Design',
     subtitles: [
-        "What’s the State of the 'Art' in Machine Learning? The Creativity workshop explores applying the latest ML technologies in art and design.",
-        'December 13 2022, Online.',
+        "What’s the State of the 'Art' in Machine Learning? The NeurIPS Creativity workshop explores applying the latest ML technologies in art and design.",
+        'December 13 2021, Online.',
     ],
     imageCaption1: (
         <>

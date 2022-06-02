@@ -27,10 +27,32 @@
 
 .subtitle {
     color: #fafafa;
-    font-size: 14pt;
+    font-size: 16pt;
     font-family: monospace;
     font-weight: lighter;
     text-transform: uppercase;
+}
+
+.subsubtitle {
+    color: #fafafa;
+    font-size: 12pt;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+.subsubtitle a {
+    color: #fafafa;
+    font-size: 12pt;
+    font-family: monospace;
+    font-weight: lighter;
+    text-decoration: none;
+}
+
+.subsubtitle a:hover {
+    color: #fafafa;
+    font-size: 12pt;
+    font-family: monospace;
+    font-weight: bold;
 }
 
 .heading {

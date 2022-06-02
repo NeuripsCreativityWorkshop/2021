@@ -58,6 +58,14 @@ const GalleryPage = (): JSX.Element => {
                     Machine Learning for Creativity and Design
                 </h1>
                 <h3 className={styles.subtitle}>2021 Art Gallery</h3>
+                <p className={styles.subsubtitle}>
+                    Showcased at the{' '}
+                    <a href="/2021/#/">
+                        NeurIPS Workshop on Machine Learning for Creativity and
+                        Design
+                    </a>
+                    .
+                </p>
                 <h3 className={styles.heading}>Spotlights</h3>
                 <Grid container spacing={4} className={styles.gridFeatured}>
                     {featuredItems}
