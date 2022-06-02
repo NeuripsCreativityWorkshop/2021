@@ -56,9 +56,7 @@ const GalleryModal = ({ item, isOpen, onClose }: Props): JSX.Element => {
                                     key={item.ID}
                                     controls
                                     autoPlay
-                                    poster={item.Images.at(
-                                        item.Images.length - 1,
-                                    )}
+                                    poster={item.Thumbnail}
                                     src={videoUrl}
                                 />
                             );
